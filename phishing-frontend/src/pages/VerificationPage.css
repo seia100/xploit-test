@@ -1,0 +1,60 @@
+.verification-page {
+  padding: 40px 0;
+  background-color: var(--light-gray);
+}
+
+.verification-page .form-container {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.info-text {
+  margin-bottom: 25px;
+  color: var(--text-color);
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+.form-row {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 20px;
+}
+
+.form-group.half {
+  flex: 1;
+}
+
+/* Inherit existing styles from LoginPage.css */
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-control.error {
+  border-color: var(--danger);
+}
+
+.error-message {
+  color: var(--danger);
+  font-size: 14px;
+  margin-top: 5px;
+}
+
+.btn-block {
+  width: 100%;
+  padding: 12px;
+  font-size: 16px;
+}
+
+.security-notice {
+  margin-top: 30px;
+  padding: 15px;
+  background-color: rgba(92, 184, 92, 0.1);
+  border-left: 4px solid var(--success);
+  border-radius: 4px;
+}
+
+.security-notice p {
+  margin: 0;
+  font-size: 13px;
+}

@@ -1,0 +1,44 @@
+/* Estilos para el footer del banco */
+#pie-pagina {
+  background-color: #ba1113;
+  color: #ffffff;
+  padding: 20px;
+  margin-top: 40px;
+  font-family: Arial, sans-serif;
+}
+
+#titulo-pie-pagina {
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 15px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+#oficinas {
+  text-align: center;
+  line-height: 1.4;
+}
+
+#oficinas p {
+  margin: 8px 0;
+  font-size: 12px;
+  color: #ffffff;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  #pie-pagina {
+    padding: 15px;
+  }
+  
+  #titulo-pie-pagina {
+    font-size: 14px;
+  }
+  
+  #oficinas p {
+    font-size: 11px;
+    margin: 6px 0;
+  }
+}

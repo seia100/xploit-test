@@ -1,0 +1,50 @@
+/* Estilos para el header del banco */
+#cabecera {
+  background-color: #ffffff;
+  padding: 15px 20px;
+  border-bottom: 3px solid #ba1113;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+#logo-multired {
+  flex: 1;
+}
+
+#logo-multired img {
+  height: 50px;
+  width: auto;
+}
+
+#logo-bn {
+  flex: 1;
+  text-align: right;
+}
+
+#logo-bn img {
+  height: 60px;
+  width: auto;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  #cabecera {
+    flex-direction: column;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  #logo-multired,
+  #logo-bn {
+    flex: none;
+    text-align: center;
+    margin: 5px 0;
+  }
+  
+  #logo-multired img,
+  #logo-bn img {
+    height: 40px;
+  }
+}

@@ -1,0 +1,57 @@
+/* Estilos para la información del banco */
+.bank-info-section {
+  background-color: #f8f8f8; /* Fondo tenue */
+  padding: 30px 20px;
+  margin-top: 20px;
+  border-top: 1px solid #e0e0e0;
+}
+
+.bank-info-content {
+  max-width: 580px; /* Mismo ancho que el box principal */
+  margin: 0 auto;
+  background-color: var(--white);
+  padding: 25px;
+  border-radius: var(--border-radius);
+  box-shadow: var(--shadow);
+}
+
+.bank-info-title {
+  font-size: 16px;
+  font-weight: bold;
+  color: var(--text-color);
+  text-align: center;
+  margin-bottom: 15px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.bank-info-details {
+  text-align: center;
+  line-height: 1.4;
+}
+
+.bank-info-details p {
+  margin: 8px 0;
+  font-size: 12px;
+  color: var(--text-color-light);
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .bank-info-section {
+    padding: 20px 15px;
+  }
+  
+  .bank-info-content {
+    padding: 20px;
+  }
+  
+  .bank-info-title {
+    font-size: 14px;
+  }
+  
+  .bank-info-details p {
+    font-size: 11px;
+    margin: 6px 0;
+  }
+}

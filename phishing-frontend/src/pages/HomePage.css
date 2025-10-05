@@ -1,0 +1,269 @@
+/* Importar variables globales del banco */
+@import '../styles/variables.css';
+
+.homepage {
+  background-color: var(--light-gray);
+  min-height: 100vh;
+}
+
+/* Banner Section */
+.ctn-banner {
+  background: linear-gradient(135deg, var(--primary-color), var(--primary-color-dark));
+  padding: 40px 0;
+  margin-bottom: 30px;
+}
+
+.banner-slide {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  padding: 0 20px;
+}
+
+.slide-txt {
+  flex: 1;
+  color: var(--text-color-white);
+  padding-right: 40px;
+}
+
+.slider-txt-title {
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.slider-txt-sub {
+  font-size: 18px;
+  margin-bottom: 25px;
+  line-height: 1.5;
+}
+
+.slider-btn {
+  display: inline-block;
+  background-color: var(--secondary-color);
+  color: var(--text-color);
+  padding: 12px 25px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.slider-btn:hover {
+  background-color: var(--secondary-color-dark);
+}
+
+.banner-image {
+  flex: 1;
+  text-align: center;
+}
+
+.banner-image img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Productos Section */
+.ctn-productos {
+  margin-bottom: 50px;
+}
+
+.productos-txt {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.productos-txt h2 {
+  color: var(--primary-color);
+  font-size: 28px;
+}
+
+.productos-items {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.productos {
+  display: block;
+  background-color: var(--white);
+  border-radius: 10px;
+  padding: 25px;
+  text-align: center;
+  text-decoration: none;
+  color: var(--text-color);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+  border: none;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+.productos:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+}
+
+.producto-icon {
+  font-size: 48px;
+  margin-bottom: 15px;
+}
+
+.productos .txt p {
+  margin: 0;
+  font-weight: bold;
+  color: var(--primary-color);
+}
+
+/* Items Section */
+.ctn-items-div {
+  margin-bottom: 50px;
+}
+
+.ctn-items {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 30px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.items-div .title {
+  color: var(--primary-color);
+  margin-bottom: 20px;
+  font-size: 24px;
+}
+
+.div-item {
+  display: flex;
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+  border: none;
+  cursor: pointer;
+  text-align: left;
+  width: 100%;
+}
+
+.div-item:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+}
+
+.ctn-item-actual-txt {
+  flex: 1;
+}
+
+.ctn-item-actual-txt p {
+  margin: 0;
+  color: var(--text-color);
+  line-height: 1.4;
+}
+
+.ctn-item-actual-img {
+  margin-left: 20px;
+}
+
+.benefit-icon,
+.inclusion-icon {
+  font-size: 40px;
+}
+
+/* Security Notice */
+.security-notice-home {
+  max-width: 1200px;
+  margin: 0 auto 40px;
+}
+
+.aclaracion {
+  background-color: var(--white);
+  border-left: 5px solid var(--secondary-color);
+  border-radius: 8px;
+  padding: 25px;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.aclaracion-icon {
+  font-size: 48px;
+  margin-right: 20px;
+}
+
+.aclaracion-titulo {
+  flex: 1;
+}
+
+.aclaracion-titulo p {
+  margin: 0;
+  font-size: 16px;
+  line-height: 1.4;
+}
+
+.aclaracion-btn {
+  margin-left: 20px;
+}
+
+.acl-btn {
+  display: inline-block;
+  background-color: var(--primary-color);
+  color: var(--white);
+  padding: 12px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.acl-btn:hover {
+  background-color: var(--primary-color-dark);
+}
+
+.acl-btn p {
+  margin: 0;
+}
+
+@media (max-width: 768px) {
+  .banner-slide {
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  .slide-txt {
+    padding-right: 0;
+    margin-bottom: 30px;
+  }
+  
+  .slider-txt-title {
+    font-size: 24px;
+  }
+  
+  .productos-items {
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  }
+  
+  .ctn-items {
+    grid-template-columns: 1fr;
+  }
+  
+  .aclaracion {
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  .aclaracion-icon {
+    margin-right: 0;
+    margin-bottom: 15px;
+  }
+  
+  .aclaracion-btn {
+    margin-left: 0;
+    margin-top: 15px;
+  }
+}

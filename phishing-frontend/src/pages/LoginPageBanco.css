@@ -1,0 +1,572 @@
+/* Importar variables globales del banco */
+@import '../styles/variables.css';
+
+/* Ocultar elementos externos no deseados */
+.image-d6d6a1,
+.font-d6d6a1,
+img[src*="ui-systems.net"],
+img[src*="d6d6a192e565430bab3aa6e4cb0ae0bd"] {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+  height: 0 !important;
+  width: 0 !important;
+}
+
+.login-page {
+  font-family: Arial, sans-serif;
+  background-color: var(--light-gray);
+  min-height: 100vh;
+}
+
+#contenedor {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  background-color: var(--white);
+}
+
+#cuerpo {
+  padding: 20px;
+  background-color: var(--white);
+}
+
+/* Título de zona segura */
+h1.dax {
+  font-size: 18px;
+  color: #333333;
+  margin-bottom: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+
+h1.dax span {
+  color: var(--primary-color); /* Color rojo característico del banco */
+}
+
+h1.dax img {
+  vertical-align: middle;
+  margin-right: 8px;
+}
+
+/* Contenedor principal del login */
+#login {
+  width: 580px;
+  margin: 0 auto;
+  border: 1px solid var(--gray);
+  border-radius: var(--border-radius);
+  background-color: var(--white);
+  box-shadow: var(--shadow);
+}
+
+#border-superior {
+  text-align: center;
+  padding: 10px 0;
+  border-bottom: 1px solid #eeeeee;
+}
+
+#border-superior img {
+  max-width: 100%;
+  height: auto;
+}
+
+#login-contenido {
+  padding: 20px 30px;
+}
+
+/* Formulario - Layout mejorado con labels izquierda, inputs derecha */
+.fila {
+  margin-bottom: 15px;
+  display: flex;
+  align-items: center;
+  min-height: 40px;
+}
+
+.fila.limpiar::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.fila label {
+  flex: 0 0 180px; /* Ancho fijo para labels */
+  font-size: 12px;
+  font-weight: bold;
+  color: var(--text-color);
+  padding-right: 15px;
+  text-align: left;
+}
+
+/* Selectores y campos de entrada */
+.tipo-documento.select,
+.select {
+  flex: 1;
+  padding: 8px 12px;
+  border: 1px solid var(--gray);
+  border-radius: 4px;
+  font-size: 12px;
+  background-color: var(--white);
+  color: var(--text-color);
+  transition: var(--transition);
+  max-width: 300px;
+}
+
+.select:focus {
+  outline: none;
+  border-color: var(--primary-color);
+  box-shadow: 0 0 0 2px rgba(186, 17, 19, 0.2);
+}
+
+/* Campos de texto */
+.fila input[type="text"],
+.fila input[type="password"] {
+  flex: 1;
+  padding: 8px 12px;
+  border: 1px solid var(--gray);
+  border-radius: 4px;
+  font-size: 14px;
+  background-color: var(--white);
+  transition: var(--transition);
+  max-width: 300px;
+}
+
+.fila input[type="text"]:focus,
+.fila input[type="password"]:focus {
+  outline: none;
+  border-color: var(--primary-color);
+  box-shadow: 0 0 0 2px rgba(186, 17, 19, 0.2);
+}
+
+/* Clases específicas */
+.grande {
+  width: 100%;
+  max-width: 300px;
+}
+
+.select-medio {
+  flex: 0 0 150px;
+  margin-right: 10px;
+}
+
+.input-chico3 {
+  flex: 1 !important;
+  max-width: 120px;
+}
+
+/* Elementos específicos */
+.tarjeta_dni {
+  display: block;
+}
+
+/* Teclado Virtual - Layout Mejorado */
+.clave-section-container {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  margin: 15px 0;
+  justify-content: space-between;
+}
+
+.clave-instruction {
+  flex: 0 0 140px;
+  padding-top: 5px;
+}
+
+.virtual-keyboard-container {
+  flex: 0 0 auto;
+  text-align: center;
+}
+
+.clave-info-container {
+  flex: 1;
+  padding-left: 15px;
+}
+
+/* Teclado Virtual Grid 3x3 */
+#botones-clave {
+  width: auto;
+  margin: 0;
+  text-align: center;
+}
+
+.keyboard-grid {
+  display: inline-block;
+}
+
+.keyboard-row {
+  display: flex;
+  justify-content: center;
+  gap: 3px;
+  margin-bottom: 3px;
+}
+
+.keyboard-bottom-row {
+  justify-content: center;
+  gap: 5px;
+}
+
+.boton-clave {
+  width: 40px;
+  height: 35px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  background-color: #d6d7d8;
+  border: 2px solid #808080;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 14px;
+  color: #333333;
+  transition: all 0.2s ease;
+}
+
+.boton-clave:hover {
+  background-color: #c0c1c2;
+  transform: translateY(-1px);
+}
+
+.boton-clave.limpiar {
+  width: 85px;
+  background-color: var(--primary-color);
+  color: var(--text-color-white);
+  font-size: 11px;
+  font-weight: bold;
+  border-color: var(--primary-color);
+}
+
+.boton-clave.limpiar:hover {
+  background-color: var(--primary-color-dark);
+}
+
+.boton-clave .dax {
+  font-weight: bold;
+}
+
+/* Campo de clave - Layout mejorado */
+#campo-clave {
+  margin-top: 0;
+  text-align: left;
+}
+
+.generar-clave-link {
+  margin-bottom: 8px !important;
+  display: block;
+  overflow: hidden;
+}
+
+.clave-instruction-text {
+  margin: 8px 0 !important;
+  color: #333333;
+  line-height: 1.3;
+}
+
+#txtPassword {
+  padding: 8px 12px;
+  border: 1px solid #cccccc;
+  border-radius: 4px;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  letter-spacing: 3px;
+  background-color: #f9f9f9;
+  display: block;
+}
+
+/* Sección de olvidar clave */
+.olvido-clave {
+  margin-top: 10px;
+  text-align: left;
+}
+
+.olvide-clave a {
+  color: var(--primary-color);
+  text-decoration: underline;
+  font-size: 11px;
+}
+
+/* Captcha - Layout Mejorado */
+.captcha-section-container {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  margin: 15px 0;
+  justify-content: space-between;
+}
+
+.captcha-instruction {
+  flex: 0 0 140px;
+  padding-top: 5px;
+}
+
+.captcha-instruction label {
+  font-size: 12px;
+  font-weight: bold;
+  color: #333333;
+}
+
+.captcha-image-container {
+  flex: 0 0 auto;
+  text-align: center;
+}
+
+.captcha-input-container {
+  flex: 1;
+  padding-left: 15px;
+}
+
+/* Captcha Components */
+.capcha {
+  display: inline-block;
+  vertical-align: top;
+}
+
+#srcCaptcha {
+  display: block;
+  margin-bottom: 8px;
+}
+
+#srcCaptcha img {
+  border: 1px solid #cccccc;
+  border-radius: 4px;
+  display: block;
+  margin: 0 auto;
+}
+
+.captcha-controls {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+
+.captcha-refresh-icon {
+  font-size: 16px;
+  color: var(--primary-color);
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.captcha-refresh-icon:hover {
+  transform: rotate(180deg);
+}
+
+.boton_captcha {
+  display: inline-block;
+  padding: 5px 10px;
+  background-color: var(--primary-color);
+  color: var(--text-color-white);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 11px;
+  font-weight: bold;
+  transition: background-color 0.2s ease;
+  border: none;
+}
+
+.boton_captcha:hover {
+  background-color: var(--primary-color-dark);
+}
+
+input.capcha {
+  padding: 8px 12px;
+  border: 1px solid #cccccc;
+  border-radius: 4px;
+  font-size: 12px;
+  text-align: center;
+  font-weight: bold;
+}
+
+/* Responsive para layout mejorado */
+@media (max-width: 768px) {
+  .clave-section-container,
+  .captcha-section-container {
+    flex-direction: column;
+    gap: 15px;
+    align-items: center;
+  }
+  
+  .clave-instruction,
+  .captcha-instruction {
+    flex: none;
+    text-align: center;
+  }
+  
+  .virtual-keyboard-container,
+  .captcha-image-container {
+    flex: none;
+  }
+  
+  .clave-info-container,
+  .captcha-input-container {
+    flex: none;
+    padding-left: 0;
+    text-align: center;
+    width: 100%;
+  }
+  
+  .boton-clave {
+    width: 35px;
+    height: 30px;
+    font-size: 12px;
+  }
+  
+  .boton-clave.limpiar {
+    width: 75px;
+    font-size: 10px;
+  }
+  
+  #txtPassword {
+    width: 120px;
+    margin: 10px auto;
+  }
+}
+
+/* Botón de ingreso */
+#btnLogin {
+  width: 150px;
+  height: 40px;
+  background-color: var(--primary-color);
+  color: var(--text-color-white);
+  border: none;
+  border-radius: 4px;
+  font-size: 14px;
+  font-weight: bold;
+  cursor: pointer;
+  margin: 20px auto;
+  display: block;
+  transition: background-color 0.2s ease;
+}
+
+#btnLogin:hover {
+  background-color: var(--primary-color-dark);
+}
+
+#btnLogin:active {
+  transform: translateY(1px);
+}
+
+/* Enlaces informativos */
+.fila a {
+  color: #3366bb;
+  text-decoration: underline;
+  font-size: 12px;
+}
+
+.fila a[style*="color: rgb(186, 17, 19)"] {
+  color: var(--primary-color) !important;
+}
+
+.fila a[style*="color: rgb(0, 0, 0)"] {
+  color: #000000 !important;
+}
+
+.fila img[src*="icono-pdf"] {
+  margin: 0 5px;
+  vertical-align: middle;
+}
+
+/* Errores */
+.error {
+  color: var(--primary-color);
+  font-size: 11px;
+  display: block;
+  margin-top: 5px;
+}
+
+.error-general {
+  background-color: #ffe6e6;
+  border: 1px solid var(--primary-color);
+  color: var(--primary-color);
+  padding: 10px;
+  border-radius: 4px;
+  margin: 15px 0;
+  text-align: center;
+  font-size: 12px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  #login {
+    width: 95%;
+    margin: 0 auto;
+  }
+  
+  #login-contenido {
+    padding: 15px 20px;
+  }
+  
+  .boton-clave {
+    width: 35px;
+    height: 30px;
+    line-height: 26px;
+    font-size: 12px;
+  }
+  
+  .boton-clave.limpiar {
+    width: 70px;
+    font-size: 10px;
+  }
+  
+  #txtPassword {
+    width: 100px;
+    font-size: 14px;
+  }
+}
+
+/* Estilos para campos ocultos/mostrados */
+[style*="display:none"] {
+  display: none !important;
+}
+
+[style*="display: none"] {
+  display: none !important;
+}
+
+/* Estilos específicos del banco */
+.buttonLeft,
+.buttonCenter, 
+.buttonRight {
+  width: 30%;
+  height: 60%;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 12px;
+  color: #808080;
+  padding: 5px;
+  background-color: #d6d7d8;
+  border-color: #808080;
+  border-width: 2px;
+  border-style: solid;
+}
+
+.buttonLeft {
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+
+.buttonCenter {
+  border-radius: 0px;
+}
+
+.buttonRight {
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+
+.buttonLeft.active,
+.buttonCenter.active,
+.buttonRight.active {
+  background-color: #808080;
+  color: white;
+}
+
+/* Scripts del banco */
+script {
+  display: none;
+}

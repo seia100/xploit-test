@@ -1,0 +1,420 @@
+/* Multired Virtual Styles */
+.multired-page {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+.contenedor {
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+/* Header */
+.cabecera {
+  background-color: #C41E3A;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  height: 80px;
+}
+
+.logo-multired img, .logo-bn img {
+  height: 60px;
+  max-width: 200px;
+}
+
+/* Cuerpo */
+.cuerpo {
+  background-color: #e8e8e8;
+  padding: 20px 0 40px 0;
+  text-align: center;
+}
+
+.zona-segura {
+  color: #666;
+  font-size: 18px;
+  margin: 20px 0 30px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+.zona-segura span {
+  color: #C41E3A;
+  font-weight: bold;
+}
+
+.zona-segura img {
+  width: 20px;
+  height: 20px;
+}
+
+/* Login Container */
+.login-multired {
+  max-width: 500px;
+  margin: 0 auto;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+
+.border-superior img, .border-inferior img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.login-contenido {
+  padding: 30px;
+}
+
+/* Form Styles */
+.fila {
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.limpiar {
+  clear: both;
+}
+
+.fila label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: bold;
+  color: #333;
+  font-size: 14px;
+}
+
+/* Select and Input Styles */
+.tipo-documento, .select {
+  width: 100%;
+  padding: 8px;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 14px;
+  background-color: white;
+}
+
+.select-medio {
+  width: 48%;
+  display: inline-block;
+  margin-right: 4%;
+}
+
+.input-chico3 {
+  width: 48%;
+  padding: 8px;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 14px;
+  display: inline-block;
+}
+
+.grande {
+  width: 100%;
+  padding: 10px;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+
+/* Teclado Virtual */
+.botones-clave {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 5px;
+  margin: 15px 0;
+  max-width: 300px;
+}
+
+.boton-clave {
+  background-color: #d6d7d8;
+  border: 2px solid #808080;
+  border-radius: 4px;
+  padding: 10px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 16px;
+  color: #333;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  user-select: none;
+}
+
+.boton-clave:hover {
+  background-color: #bbb;
+  transform: translateY(-1px);
+}
+
+.boton-clave:active {
+  background-color: #808080;
+  color: white;
+  transform: translateY(0);
+}
+
+.limpiar-btn {
+  grid-column: span 2;
+  background-color: #f44336 !important;
+  color: white !important;
+  font-size: 12px !important;
+}
+
+.limpiar-btn:hover {
+  background-color: #d32f2f !important;
+}
+
+/* Campo de Clave */
+.campo-clave {
+  margin-top: 20px;
+  text-align: left;
+}
+
+.genera-clave {
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.genera-clave img {
+  width: 20px;
+  height: 20px;
+}
+
+.link-genera {
+  color: #C41E3A;
+  text-decoration: underline;
+  font-size: 12px;
+}
+
+.campo-clave p {
+  margin: 10px 0;
+  font-size: 13px;
+}
+
+.clave-input {
+  width: 150px;
+  padding: 8px;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  letter-spacing: 3px;
+  text-align: center;
+  background-color: #f9f9f9;
+}
+
+.olvide-clave {
+  margin-top: 10px;
+}
+
+.link-olvide {
+  color: #C41E3A;
+  text-decoration: underline;
+  font-size: 12px;
+}
+
+/* Captcha */
+.capcha-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 10px 0;
+}
+
+.captcha-display {
+  background-color: #f0f0f0;
+  border: 2px solid #ccc;
+  padding: 8px 15px;
+  border-radius: 4px;
+  min-width: 80px;
+  text-align: center;
+}
+
+.captcha-text {
+  font-family: monospace;
+  font-size: 16px;
+  font-weight: bold;
+  color: #333;
+  letter-spacing: 2px;
+}
+
+.boton-captcha {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 12px;
+  text-align: center;
+}
+
+.boton-captcha:hover {
+  background-color: #0056b3;
+}
+
+.captcha-input {
+  width: 100px;
+  padding: 8px;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 14px;
+  margin-top: 5px;
+}
+
+/* Botón Ingresar */
+.btn-ingresar {
+  background-color: #C41E3A;
+  color: white;
+  border: none;
+  padding: 12px 40px;
+  border-radius: 6px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  text-transform: uppercase;
+}
+
+.btn-ingresar:hover {
+  background-color: #a01729;
+}
+
+.btn-ingresar:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+/* Enlaces adicionales */
+.enlaces-adicionales {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.link-recomendaciones {
+  color: #007bff;
+  text-decoration: underline;
+  font-size: 12px;
+}
+
+.guias-usuario {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.guias-usuario img {
+  width: 12px;
+  height: 12px;
+}
+
+.link-guia {
+  color: #333;
+  text-decoration: none;
+  font-size: 12px;
+}
+
+.link-guia:hover {
+  text-decoration: underline;
+}
+
+/* Footer */
+.pie-pagina {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.titulo-pie-pagina {
+  font-weight: bold;
+  margin-bottom: 15px;
+  font-size: 16px;
+}
+
+.oficinas p {
+  margin: 5px 0;
+  font-size: 12px;
+  line-height: 1.4;
+}
+
+/* Error Handling */
+.error-message {
+  color: #C41E3A;
+  font-size: 12px;
+  margin-top: 5px;
+  display: block;
+}
+
+.error-alert {
+  background-color: #f8d7da;
+  color: #721c24;
+  padding: 10px;
+  border-radius: 4px;
+  margin-bottom: 15px;
+  border: 1px solid #f5c6cb;
+  font-size: 14px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .cabecera {
+    flex-direction: column;
+    height: auto;
+    padding: 15px;
+  }
+  
+  .logo-multired, .logo-bn {
+    margin: 5px 0;
+  }
+  
+  .login-multired {
+    margin: 0 15px;
+  }
+  
+  .login-contenido {
+    padding: 20px;
+  }
+  
+  .botones-clave {
+    grid-template-columns: repeat(3, 1fr);
+    max-width: 250px;
+  }
+  
+  .select-medio, .input-chico3 {
+    width: 100%;
+    margin-right: 0;
+    margin-bottom: 10px;
+  }
+  
+  .guias-usuario {
+    flex-direction: column;
+    gap: 5px;
+  }
+}
+
+/* Accessibility */
+.boton-clave:focus,
+.btn-ingresar:focus,
+.boton-captcha:focus {
+  outline: 2px solid #007bff;
+  outline-offset: 2px;
+}
+
+input:focus,
+select:focus {
+  outline: none;
+  border-color: #007bff;
+  box-shadow: 0 0 0 2px rgba(0, 123, 255, 0.25);
+}

